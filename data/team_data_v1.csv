@@ -1,0 +1,1334 @@
+,date,game_id,home_team,home_score,away_team,away_score,season,game_state,home_shots,away_shots
+0,2022-09-24,2022010001,Toronto Maple Leafs,4,Ottawa Senators,1,20222023,Final,31,20
+1,2022-09-24,2022010002,Philadelphia Flyers,2,Boston Bruins,1,20222023,Final,29,32
+2,2022-09-24,2022010003,Toronto Maple Leafs,2,Ottawa Senators,4,20222023,Final,23,27
+3,2022-09-25,2022010004,Arizona Coyotes,4,St. Louis Blues,5,20222023,Final,4,5
+4,2022-09-25,2022010005,Pittsburgh Penguins,3,Columbus Blue Jackets,2,20222023,Final,34,28
+5,2022-09-25,2022010006,Washington Capitals,3,Buffalo Sabres,4,20222023,Final,27,28
+6,2022-09-25,2022010007,Minnesota Wild,3,Colorado Avalanche,2,20222023,Final,36,25
+7,2022-09-25,2022010008,Arizona Coyotes,2,Anaheim Ducks,3,20222023,Final,2,3
+8,2022-09-25,2022010009,Edmonton Oilers,4,Winnipeg Jets,0,20222023,Final,26,29
+9,2022-09-25,2022010010,Vancouver Canucks,2,Calgary Flames,3,20222023,Final,28,45
+10,2022-09-25,2022010011,San Jose Sharks,3,Los Angeles Kings,2,20222023,Final,31,45
+11,2022-09-25,2022010012,Columbus Blue Jackets,5,Pittsburgh Penguins,1,20222023,Final,32,34
+12,2022-09-26,2022010013,Calgary Flames,4,Vancouver Canucks,0,20222023,Final,31,19
+13,2022-09-26,2022010014,Colorado Avalanche,3,Vegas Golden Knights,1,20222023,Final,30,23
+14,2022-09-26,2022010015,Nashville Predators,3,Florida Panthers,4,20222023,Final,25,32
+15,2022-09-26,2022010016,Montréal Canadiens,1,New Jersey Devils,2,20222023,Final,21,31
+16,2022-09-26,2022010017,New York Rangers,4,New York Islanders,1,20222023,Final,35,24
+17,2022-09-27,2022010018,Nashville Predators,4,Florida Panthers,0,20222023,Final,38,25
+18,2022-09-27,2022010019,Dallas Stars,0,St. Louis Blues,4,20222023,Final,33,28
+19,2022-09-27,2022010020,Seattle Kraken,3,Edmonton Oilers,0,20222023,Final,27,29
+20,2022-09-27,2022010021,Vegas Golden Knights,1,Los Angeles Kings,2,20222023,Final,34,18
+21,2022-09-27,2022010022,Pittsburgh Penguins,2,Detroit Red Wings,6,20222023,Final,33,21
+22,2022-09-27,2022010023,New Jersey Devils,4,New York Islanders,1,20222023,Final,26,25
+23,2022-09-27,2022010024,Boston Bruins,3,New York Rangers,2,20222023,Final,36,26
+24,2022-09-27,2022010025,Buffalo Sabres,2,Philadelphia Flyers,1,20222023,Final,21,21
+25,2022-09-27,2022010026,Carolina Hurricanes,5,Tampa Bay Lightning,1,20222023,Final,46,21
+26,2022-09-28,2022010027,Dallas Stars,4,Arizona Coyotes,3,20222023,Final,4,3
+27,2022-09-28,2022010028,Winnipeg Jets,5,Ottawa Senators,3,20222023,Final,24,27
+28,2022-09-28,2022010029,Chicago Blackhawks,1,St. Louis Blues,4,20222023,Final,32,22
+29,2022-09-28,2022010030,Colorado Avalanche,2,Minnesota Wild,5,20222023,Final,41,26
+30,2022-09-28,2022010031,Seattle Kraken,3,Calgary Flames,0,20222023,Final,35,25
+31,2022-09-28,2022010032,San Jose Sharks,5,Anaheim Ducks,4,20222023,Final,29,30
+33,2022-09-28,2022010033,Columbus Blue Jackets,4,Buffalo Sabres,1,20222023,Final,31,23
+34,2022-09-28,2022010035,Toronto Maple Leafs,3,Montréal Canadiens,0,20222023,Final,29,27
+35,2022-09-28,2022010036,Philadelphia Flyers,1,Washington Capitals,3,20222023,Final,21,27
+36,2022-09-28,2022010037,Detroit Red Wings,2,Chicago Blackhawks,4,20222023,Final,33,22
+37,2022-09-29,2022010038,Calgary Flames,4,Edmonton Oilers,0,20222023,Final,34,21
+38,2022-09-29,2022010039,Anaheim Ducks,3,Arizona Coyotes,1,20222023,Final,23,29
+39,2022-09-29,2022010040,Vegas Golden Knights,7,Colorado Avalanche,1,20222023,Final,28,26
+40,2022-09-29,2022010041,Los Angeles Kings,1,San Jose Sharks,3,20222023,Final,1,3
+41,2022-09-29,2022010042,Florida Panthers,2,Carolina Hurricanes,5,20222023,Final,30,28
+42,2022-09-29,2022010044,New York Rangers,2,New Jersey Devils,5,20222023,Final,17,36
+43,2022-09-29,2022010045,Montréal Canadiens,3,Winnipeg Jets,4,20222023,Final,25,25
+44,2022-09-30,2022010043,Tampa Bay Lightning,0,Nashville Predators,2,20222023,Final,30,31
+45,2022-09-30,2022010046,St. Louis Blues,4,Columbus Blue Jackets,2,20222023,Final,21,35
+46,2022-09-30,2022010047,Dallas Stars,2,Minnesota Wild,5,20222023,Final,35,28
+47,2022-09-30,2022010048,Vancouver Canucks,3,Seattle Kraken,4,20222023,Final,36,29
+48,2022-09-30,2022010049,Nashville Predators,7,Tampa Bay Lightning,1,20222023,Final,28,28
+49,2022-09-30,2022010050,New Jersey Devils,1,New York Rangers,2,20222023,Final,26,37
+50,2022-09-30,2022010051,Ottawa Senators,3,Toronto Maple Leafs,6,20222023,Final,3,6
+51,2022-09-30,2022010052,Detroit Red Wings,0,Washington Capitals,2,20222023,Final,19,31
+52,2022-10-01,2022010053,Edmonton Oilers,2,Calgary Flames,1,20222023,Final,38,22
+53,2022-10-01,2022010054,Anaheim Ducks,4,San Jose Sharks,1,20222023,Final,31,31
+54,2022-10-01,2022010055,Vegas Golden Knights,3,San Jose Sharks,7,20222023,Final,30,39
+55,2022-10-01,2022010056,Carolina Hurricanes,4,Florida Panthers,3,20222023,Final,47,10
+56,2022-10-01,2022010057,Boston Bruins,4,Philadelphia Flyers,0,20222023,Final,26,21
+57,2022-10-01,2022010058,Buffalo Sabres,3,Pittsburgh Penguins,1,20222023,Final,35,33
+58,2022-10-01,2022010059,Ottawa Senators,5,Montréal Canadiens,4,20222023,Final,34,16
+59,2022-10-01,2022010060,Columbus Blue Jackets,2,Washington Capitals,1,20222023,Final,20,35
+60,2022-10-02,2022010061,St. Louis Blues,2,Dallas Stars,5,20222023,Final,2,5
+61,2022-10-02,2022010062,Winnipeg Jets,2,Edmonton Oilers,3,20222023,Final,36,28
+62,2022-10-02,2022010063,Chicago Blackhawks,0,Detroit Red Wings,3,20222023,Final,21,35
+63,2022-10-02,2022010064,Seattle Kraken,4,Vancouver Canucks,0,20222023,Final,26,17
+64,2022-10-02,2022010065,New York Islanders,2,Philadelphia Flyers,1,20222023,Final,23,25
+65,2022-10-02,2022010066,Chicago Blackhawks,0,Minnesota Wild,3,20222023,Final,0,3
+66,2022-10-03,2022010067,Los Angeles Kings,2,Anaheim Ducks,1,20222023,Final,33,25
+67,2022-10-03,2022010107,SC Bern,3,Nashville Predators,4,20222023,Final,3,4
+68,2022-10-03,2022010068,New Jersey Devils,1,Boston Bruins,0,20222023,Final,24,24
+69,2022-10-03,2022010069,Carolina Hurricanes,8,Columbus Blue Jackets,1,20222023,Final,45,26
+70,2022-10-03,2022010070,Montréal Canadiens,1,Toronto Maple Leafs,5,20222023,Final,30,31
+71,2022-10-03,2022010071,Detroit Red Wings,2,Pittsburgh Penguins,3,20222023,Final,39,24
+72,2022-10-04,2022010072,Dallas Stars,1,Colorado Avalanche,3,20222023,Final,39,30
+73,2022-10-04,2022010073,Calgary Flames,4,Seattle Kraken,1,20222023,Final,25,22
+74,2022-10-04,2022010074,Edmonton Oilers,7,Vancouver Canucks,2,20222023,Final,36,30
+75,2022-10-04,2022010108,Eisbaren Berlin,1,San Jose Sharks,3,20222023,Final,1,3
+76,2022-10-04,2022010075,Buffalo Sabres,4,Carolina Hurricanes,2,20222023,Final,30,25
+77,2022-10-04,2022010076,Philadelphia Flyers,3,New York Islanders,4,20222023,Final,33,33
+78,2022-10-04,2022010077,Montréal Canadiens,4,Ottawa Senators,5,20222023,Final,25,23
+79,2022-10-05,2022010078,St. Louis Blues,4,Minnesota Wild,2,20222023,Final,27,28
+80,2022-10-05,2022010079,Vegas Golden Knights,4,Arizona Coyotes,3,20222023,Final,28,53
+81,2022-10-05,2022010080,Anaheim Ducks,5,Los Angeles Kings,4,20222023,Final,32,36
+82,2022-10-05,2022010081,New York Rangers,4,Boston Bruins,5,20222023,Final,32,26
+83,2022-10-05,2022010082,Washington Capitals,4,Detroit Red Wings,2,20222023,Final,35,33
+84,2022-10-06,2022010083,Winnipeg Jets,5,Calgary Flames,0,20222023,Final,27,37
+85,2022-10-06,2022010084,Colorado Avalanche,2,Dallas Stars,1,20222023,Final,33,33
+86,2022-10-06,2022010085,Vancouver Canucks,5,Edmonton Oilers,4,20222023,Final,5,4
+87,2022-10-06,2022010086,Montréal Canadiens,3,Ottawa Senators,4,20222023,Final,3,4
+88,2022-10-06,2022010087,New York Islanders,5,New Jersey Devils,2,20222023,Final,26,28
+89,2022-10-06,2022010089,Florida Panthers,3,Tampa Bay Lightning,2,20222023,Final,41,28
+90,2022-10-06,2022010088,Columbus Blue Jackets,7,St. Louis Blues,0,20222023,Final,33,24
+91,2022-10-07,2022010090,Minnesota Wild,4,Chicago Blackhawks,1,20222023,Final,23,26
+92,2022-10-07,2022010091,Los Angeles Kings,4,Vegas Golden Knights,6,20222023,Final,4,6
+93,2022-10-07,2022020001,Nashville Predators,4,San Jose Sharks,1,20222023,Final,32,31
+94,2022-10-07,2022010092,Pittsburgh Penguins,7,Buffalo Sabres,1,20222023,Final,27,23
+95,2022-10-07,2022010093,Detroit Red Wings,4,Toronto Maple Leafs,2,20222023,Final,27,23
+96,2022-10-08,2022010094,Edmonton Oilers,5,Seattle Kraken,3,20222023,Final,40,33
+97,2022-10-08,2022010095,Calgary Flames,3,Winnipeg Jets,5,20222023,Final,38,16
+98,2022-10-08,2022010096,Vancouver Canucks,4,Arizona Coyotes,0,20222023,Final,32,7
+99,2022-10-08,2022020002,San Jose Sharks,2,Nashville Predators,3,20222023,Final,33,18
+100,2022-10-08,2022010106,St. Louis Blues,6,Chicago Blackhawks,0,20222023,Final,25,24
+101,2022-10-08,2022010098,Los Angeles Kings,6,Anaheim Ducks,3,20222023,Final,36,28
+102,2022-10-08,2022010097,Tampa Bay Lightning,5,Florida Panthers,2,20222023,Final,31,29
+103,2022-10-08,2022010100,Minnesota Wild,5,Dallas Stars,1,20222023,Final,28,23
+104,2022-10-08,2022010099,Ottawa Senators,3,Montréal Canadiens,2,20222023,Final,3,2
+105,2022-10-08,2022010101,Washington Capitals,4,Columbus Blue Jackets,3,20222023,Final,32,39
+106,2022-10-08,2022010102,Toronto Maple Leafs,5,Detroit Red Wings,1,20222023,Final,26,19
+107,2022-10-08,2022010103,Boston Bruins,3,New Jersey Devils,5,20222023,Final,30,27
+108,2022-10-08,2022010104,New York Islanders,3,New York Rangers,1,20222023,Final,16,29
+109,2022-10-09,2022010105,Vegas Golden Knights,5,Arizona Coyotes,1,20222023,Final,5,1
+110,2022-10-11,2022020003,New York Rangers,3,Tampa Bay Lightning,1,20222023,Final,39,26
+111,2022-10-12,2022020004,Los Angeles Kings,3,Vegas Golden Knights,4,20222023,Final,30,51
+112,2022-10-12,2022020005,Washington Capitals,2,Boston Bruins,5,20222023,Final,35,30
+113,2022-10-12,2022020006,Carolina Hurricanes,4,Columbus Blue Jackets,1,20222023,Final,43,32
+114,2022-10-12,2022020007,Montréal Canadiens,4,Toronto Maple Leafs,3,20222023,Final,23,32
+115,2022-10-13,2022020008,Colorado Avalanche,5,Chicago Blackhawks,2,20222023,Final,35,17
+116,2022-10-13,2022020009,Anaheim Ducks,5,Seattle Kraken,4,20222023,Final,27,48
+117,2022-10-13,2022020010,Edmonton Oilers,5,Vancouver Canucks,3,20222023,Final,25,36
+118,2022-10-13,2022020011,Pittsburgh Penguins,6,Arizona Coyotes,2,20222023,Final,53,28
+119,2022-10-13,2022020012,Philadelphia Flyers,5,New Jersey Devils,2,20222023,Final,25,37
+120,2022-10-13,2022020013,Buffalo Sabres,4,Ottawa Senators,1,20222023,Final,36,36
+121,2022-10-13,2022020014,New York Islanders,1,Florida Panthers,3,20222023,Final,33,29
+122,2022-10-13,2022020015,Toronto Maple Leafs,3,Washington Capitals,2,20222023,Final,39,26
+123,2022-10-14,2022020017,Minnesota Wild,3,New York Rangers,7,20222023,Final,36,35
+124,2022-10-14,2022020016,Nashville Predators,1,Dallas Stars,4,20222023,Final,32,29
+125,2022-10-14,2022020018,Calgary Flames,5,Colorado Avalanche,3,20222023,Final,27,25
+126,2022-10-14,2022020019,Vegas Golden Knights,1,Chicago Blackhawks,0,20222023,Final,37,27
+127,2022-10-14,2022020020,Los Angeles Kings,1,Seattle Kraken,4,20222023,Final,27,22
+128,2022-10-14,2022020021,Columbus Blue Jackets,2,Tampa Bay Lightning,5,20222023,Final,28,39
+129,2022-10-14,2022020022,Detroit Red Wings,3,Montréal Canadiens,0,20222023,Final,40,29
+130,2022-10-15,2022020023,Winnipeg Jets,4,New York Rangers,1,20222023,Final,34,41
+131,2022-10-15,2022020024,San Jose Sharks,1,Carolina Hurricanes,2,20222023,Final,19,35
+132,2022-10-15,2022020025,Buffalo Sabres,3,Florida Panthers,4,20222023,Final,27,37
+133,2022-10-15,2022020026,Philadelphia Flyers,3,Vancouver Canucks,2,20222023,Final,31,30
+134,2022-10-15,2022020027,Boston Bruins,6,Arizona Coyotes,3,20222023,Final,43,24
+135,2022-10-15,2022020028,New Jersey Devils,2,Detroit Red Wings,5,20222023,Final,39,22
+136,2022-10-15,2022020029,Washington Capitals,3,Montréal Canadiens,1,20222023,Final,29,22
+137,2022-10-15,2022020030,Toronto Maple Leafs,3,Ottawa Senators,2,20222023,Final,32,28
+138,2022-10-15,2022020031,Pittsburgh Penguins,6,Tampa Bay Lightning,2,20222023,Final,45,36
+139,2022-10-15,2022020032,New York Islanders,7,Anaheim Ducks,1,20222023,Final,38,23
+140,2022-10-16,2022020033,St. Louis Blues,5,Columbus Blue Jackets,2,20222023,Final,25,25
+141,2022-10-16,2022020034,Minnesota Wild,6,Los Angeles Kings,7,20222023,Final,35,34
+142,2022-10-16,2022020035,Dallas Stars,5,Nashville Predators,1,20222023,Final,22,30
+143,2022-10-16,2022020037,Seattle Kraken,2,Vegas Golden Knights,5,20222023,Final,33,30
+144,2022-10-16,2022020038,San Jose Sharks,2,Chicago Blackhawks,5,20222023,Final,26,25
+145,2022-10-16,2022020036,Edmonton Oilers,3,Calgary Flames,4,20222023,Final,29,42
+146,2022-10-17,2022020039,New York Rangers,6,Anaheim Ducks,4,20222023,Final,43,22
+147,2022-10-17,2022020040,Toronto Maple Leafs,2,Arizona Coyotes,4,20222023,Final,28,19
+148,2022-10-17,2022020041,Boston Bruins,5,Florida Panthers,3,20222023,Final,34,41
+149,2022-10-17,2022020042,Montréal Canadiens,3,Pittsburgh Penguins,2,20222023,Final,39,28
+150,2022-10-17,2022020043,Washington Capitals,6,Vancouver Canucks,4,20222023,Final,30,30
+151,2022-10-17,2022020044,Detroit Red Wings,4,Los Angeles Kings,5,20222023,Final,33,36
+152,2022-10-18,2022020045,Minnesota Wild,3,Colorado Avalanche,6,20222023,Final,39,38
+153,2022-10-18,2022020046,Dallas Stars,4,Winnipeg Jets,1,20222023,Final,29,25
+154,2022-10-18,2022020047,Seattle Kraken,1,Carolina Hurricanes,5,20222023,Final,23,34
+155,2022-10-18,2022020048,New Jersey Devils,4,Anaheim Ducks,2,20222023,Final,41,20
+156,2022-10-18,2022020049,Ottawa Senators,7,Boston Bruins,5,20222023,Final,31,34
+157,2022-10-18,2022020050,Columbus Blue Jackets,4,Vancouver Canucks,3,20222023,Final,33,35
+158,2022-10-18,2022020053,Tampa Bay Lightning,2,Philadelphia Flyers,3,20222023,Final,38,24
+159,2022-10-18,2022020051,New York Islanders,5,San Jose Sharks,2,20222023,Final,46,28
+160,2022-10-19,2022020054,Edmonton Oilers,2,Buffalo Sabres,4,20222023,Final,48,24
+161,2022-10-19,2022020055,Calgary Flames,3,Vegas Golden Knights,2,20222023,Final,40,21
+162,2022-10-19,2022020052,Nashville Predators,3,Los Angeles Kings,4,20222023,Final,35,37
+163,2022-10-19,2022020056,Florida Panthers,4,Philadelphia Flyers,3,20222023,Final,36,33
+164,2022-10-20,2022020057,Colorado Avalanche,3,Winnipeg Jets,4,20222023,Final,33,28
+165,2022-10-20,2022020058,Seattle Kraken,3,St. Louis Blues,4,20222023,Final,35,28
+166,2022-10-20,2022020059,Boston Bruins,2,Anaheim Ducks,1,20222023,Final,39,34
+167,2022-10-20,2022020060,Montréal Canadiens,6,Arizona Coyotes,2,20222023,Final,30,27
+168,2022-10-20,2022020061,Toronto Maple Leafs,3,Dallas Stars,2,20222023,Final,43,28
+169,2022-10-20,2022020062,Pittsburgh Penguins,6,Los Angeles Kings,1,20222023,Final,34,40
+170,2022-10-20,2022020063,Columbus Blue Jackets,5,Nashville Predators,3,20222023,Final,42,26
+171,2022-10-20,2022020064,New York Rangers,2,San Jose Sharks,3,20222023,Final,23,27
+172,2022-10-20,2022020065,Ottawa Senators,5,Washington Capitals,2,20222023,Final,44,24
+173,2022-10-20,2022020066,New York Islanders,1,New Jersey Devils,4,20222023,Final,17,43
+174,2022-10-21,2022020067,Minnesota Wild,4,Vancouver Canucks,3,20222023,Final,37,26
+175,2022-10-21,2022020069,Edmonton Oilers,6,Carolina Hurricanes,4,20222023,Final,33,40
+176,2022-10-21,2022020068,Calgary Flames,3,Buffalo Sabres,6,20222023,Final,43,32
+177,2022-10-21,2022020070,Vegas Golden Knights,5,Winnipeg Jets,2,20222023,Final,32,28
+178,2022-10-21,2022020071,Florida Panthers,2,Tampa Bay Lightning,3,20222023,Final,38,32
+179,2022-10-22,2022020072,Chicago Blackhawks,4,Detroit Red Wings,3,20222023,Final,29,28
+180,2022-10-22,2022020073,Colorado Avalanche,2,Seattle Kraken,3,20222023,Final,20,38
+181,2022-10-22,2022020074,Boston Bruins,4,Minnesota Wild,3,20222023,Final,43,27
+182,2022-10-22,2022020075,New Jersey Devils,2,San Jose Sharks,1,20222023,Final,36,22
+183,2022-10-22,2022020077,Edmonton Oilers,0,St. Louis Blues,2,20222023,Final,23,22
+184,2022-10-22,2022020076,Ottawa Senators,6,Arizona Coyotes,2,20222023,Final,32,22
+185,2022-10-22,2022020082,Winnipeg Jets,1,Toronto Maple Leafs,4,20222023,Final,31,28
+186,2022-10-22,2022020078,Montréal Canadiens,2,Dallas Stars,5,20222023,Final,34,30
+187,2022-10-22,2022020079,Washington Capitals,4,Los Angeles Kings,3,20222023,Final,32,26
+188,2022-10-22,2022020080,Tampa Bay Lightning,5,New York Islanders,3,20222023,Final,26,35
+189,2022-10-22,2022020081,Columbus Blue Jackets,3,Pittsburgh Penguins,6,20222023,Final,32,39
+190,2022-10-23,2022020083,Nashville Predators,1,Philadelphia Flyers,3,20222023,Final,32,25
+191,2022-10-23,2022020084,Vancouver Canucks,1,Buffalo Sabres,5,20222023,Final,30,27
+192,2022-10-23,2022020086,Vegas Golden Knights,2,Colorado Avalanche,3,20222023,Final,35,25
+193,2022-10-23,2022020085,Calgary Flames,3,Carolina Hurricanes,2,20222023,Final,32,27
+194,2022-10-23,2022020087,Chicago Blackhawks,5,Seattle Kraken,4,20222023,Final,27,34
+195,2022-10-23,2022020088,Detroit Red Wings,5,Anaheim Ducks,1,20222023,Final,41,33
+196,2022-10-23,2022020089,New York Rangers,1,Columbus Blue Jackets,5,20222023,Final,31,21
+197,2022-10-23,2022020090,Florida Panthers,3,New York Islanders,2,20222023,Final,32,26
+198,2022-10-23,2022020091,Philadelphia Flyers,0,San Jose Sharks,3,20222023,Final,30,25
+199,2022-10-24,2022020092,Ottawa Senators,4,Dallas Stars,2,20222023,Final,32,31
+200,2022-10-24,2022020093,New Jersey Devils,3,Washington Capitals,6,20222023,Final,41,22
+201,2022-10-25,2022020094,Edmonton Oilers,6,Pittsburgh Penguins,3,20222023,Final,47,35
+202,2022-10-25,2022020095,Winnipeg Jets,4,St. Louis Blues,0,20222023,Final,43,25
+203,2022-10-25,2022020096,Vegas Golden Knights,3,Toronto Maple Leafs,1,20222023,Final,33,23
+204,2022-10-25,2022020097,Vancouver Canucks,2,Carolina Hurricanes,3,20222023,Final,16,39
+205,2022-10-25,2022020098,Columbus Blue Jackets,3,Arizona Coyotes,6,20222023,Final,33,19
+206,2022-10-25,2022020100,Boston Bruins,3,Dallas Stars,1,20222023,Final,29,31
+207,2022-10-25,2022020101,Montréal Canadiens,1,Minnesota Wild,3,20222023,Final,27,31
+208,2022-10-25,2022020102,Detroit Red Wings,2,New Jersey Devils,6,20222023,Final,22,41
+209,2022-10-26,2022020099,New York Rangers,2,Colorado Avalanche,3,20222023,Final,50,47
+210,2022-10-26,2022020103,Chicago Blackhawks,4,Florida Panthers,2,20222023,Final,22,31
+211,2022-10-26,2022020104,Calgary Flames,4,Pittsburgh Penguins,1,20222023,Final,36,33
+212,2022-10-26,2022020105,Seattle Kraken,5,Buffalo Sabres,1,20222023,Final,24,16
+213,2022-10-26,2022020106,Los Angeles Kings,4,Tampa Bay Lightning,2,20222023,Final,33,25
+214,2022-10-26,2022020107,San Jose Sharks,2,Vegas Golden Knights,4,20222023,Final,31,31
+215,2022-10-26,2022020108,New York Islanders,3,New York Rangers,0,20222023,Final,29,41
+216,2022-10-27,2022020109,St. Louis Blues,1,Edmonton Oilers,3,20222023,Final,38,28
+217,2022-10-27,2022020110,Anaheim Ducks,2,Tampa Bay Lightning,4,20222023,Final,21,30
+218,2022-10-27,2022020111,Boston Bruins,5,Detroit Red Wings,1,20222023,Final,33,29
+219,2022-10-27,2022020112,Philadelphia Flyers,4,Florida Panthers,3,20222023,Final,22,51
+220,2022-10-27,2022020113,Ottawa Senators,2,Minnesota Wild,4,20222023,Final,29,40
+221,2022-10-27,2022020114,Buffalo Sabres,2,Montréal Canadiens,3,20222023,Final,45,34
+222,2022-10-28,2022020115,Nashville Predators,6,St. Louis Blues,2,20222023,Final,42,35
+223,2022-10-28,2022020116,Chicago Blackhawks,5,Edmonton Oilers,6,20222023,Final,36,38
+224,2022-10-28,2022020117,Dallas Stars,2,Washington Capitals,0,20222023,Final,27,27
+225,2022-10-28,2022020118,Seattle Kraken,4,Vancouver Canucks,5,20222023,Final,36,19
+226,2022-10-28,2022020119,San Jose Sharks,4,Toronto Maple Leafs,3,20222023,Final,31,25
+227,2022-10-28,2022020120,Los Angeles Kings,4,Winnipeg Jets,6,20222023,Final,44,19
+228,2022-10-28,2022020121,Vegas Golden Knights,4,Anaheim Ducks,0,20222023,Final,22,29
+229,2022-10-28,2022020122,Columbus Blue Jackets,0,Boston Bruins,4,20222023,Final,30,35
+230,2022-10-28,2022020123,New Jersey Devils,1,Colorado Avalanche,0,20222023,Final,23,24
+231,2022-10-28,2022020124,Carolina Hurricanes,2,New York Islanders,6,20222023,Final,35,32
+232,2022-10-29,2022020125,Vancouver Canucks,5,Pittsburgh Penguins,1,20222023,Final,29,35
+233,2022-10-29,2022020126,Arizona Coyotes,2,Winnipeg Jets,3,20222023,Final,21,35
+234,2022-10-29,2022020127,Dallas Stars,3,New York Rangers,6,20222023,Final,33,27
+235,2022-10-29,2022020128,Florida Panthers,5,Ottawa Senators,3,20222023,Final,58,26
+236,2022-10-29,2022020129,San Jose Sharks,3,Tampa Bay Lightning,4,20222023,Final,27,26
+237,2022-10-29,2022020134,Los Angeles Kings,4,Toronto Maple Leafs,2,20222023,Final,29,28
+238,2022-10-29,2022020133,St. Louis Blues,4,Montréal Canadiens,7,20222023,Final,30,25
+239,2022-10-29,2022020130,Philadelphia Flyers,3,Carolina Hurricanes,4,20222023,Final,29,38
+240,2022-10-29,2022020131,Buffalo Sabres,4,Chicago Blackhawks,3,20222023,Final,45,26
+241,2022-10-29,2022020132,Detroit Red Wings,2,Minnesota Wild,1,20222023,Final,25,31
+242,2022-10-29,2022020135,New York Islanders,5,Colorado Avalanche,4,20222023,Final,44,37
+243,2022-10-30,2022020136,Nashville Predators,0,Washington Capitals,3,20222023,Final,34,35
+244,2022-10-30,2022020138,Seattle Kraken,3,Pittsburgh Penguins,1,20222023,Final,30,33
+245,2022-10-30,2022020137,Calgary Flames,2,Edmonton Oilers,3,20222023,Final,42,26
+246,2022-10-30,2022020139,New Jersey Devils,7,Columbus Blue Jackets,1,20222023,Final,53,21
+247,2022-10-30,2022020140,Chicago Blackhawks,3,Minnesota Wild,4,20222023,Final,28,38
+248,2022-10-31,2022020141,Arizona Coyotes,2,New York Rangers,3,20222023,Final,20,39
+249,2022-10-31,2022020142,Anaheim Ducks,4,Toronto Maple Leafs,3,20222023,Final,39,36
+250,2022-10-31,2022020143,Vegas Golden Knights,2,Winnipeg Jets,1,20222023,Final,48,24
+251,2022-10-31,2022020144,Buffalo Sabres,8,Detroit Red Wings,3,20222023,Final,46,18
+252,2022-10-31,2022020145,Carolina Hurricanes,3,Washington Capitals,2,20222023,Final,38,23
+253,2022-11-01,2022020146,St. Louis Blues,1,Los Angeles Kings,5,20222023,Final,28,30
+254,2022-11-01,2022020148,Tampa Bay Lightning,4,Ottawa Senators,3,20222023,Final,34,15
+255,2022-11-01,2022020149,New York Rangers,1,Philadelphia Flyers,0,20222023,Final,36,19
+256,2022-11-01,2022020150,Washington Capitals,2,Vegas Golden Knights,3,20222023,Final,21,31
+257,2022-11-02,2022020151,Minnesota Wild,4,Montréal Canadiens,1,20222023,Final,31,35
+258,2022-11-02,2022020147,Pittsburgh Penguins,5,Boston Bruins,6,20222023,Final,38,40
+259,2022-11-02,2022020152,Chicago Blackhawks,1,New York Islanders,3,20222023,Final,22,33
+260,2022-11-02,2022020153,Dallas Stars,5,Los Angeles Kings,2,20222023,Final,40,32
+261,2022-11-02,2022020154,Edmonton Oilers,7,Nashville Predators,4,20222023,Final,37,23
+262,2022-11-02,2022020155,Calgary Flames,4,Seattle Kraken,5,20222023,Final,40,26
+263,2022-11-02,2022020156,Arizona Coyotes,3,Florida Panthers,1,20222023,Final,21,42
+264,2022-11-02,2022020157,Vancouver Canucks,2,New Jersey Devils,5,20222023,Final,23,37
+265,2022-11-02,2022020158,San Jose Sharks,5,Anaheim Ducks,6,20222023,Final,47,46
+266,2022-11-02,2022020159,Toronto Maple Leafs,5,Philadelphia Flyers,2,20222023,Final,44,25
+267,2022-11-02,2022020160,Buffalo Sabres,6,Pittsburgh Penguins,3,20222023,Final,33,21
+268,2022-11-03,2022020162,Tampa Bay Lightning,3,Carolina Hurricanes,4,20222023,Final,29,59
+269,2022-11-03,2022020163,Ottawa Senators,4,Vegas Golden Knights,5,20222023,Final,46,32
+270,2022-11-03,2022020164,Detroit Red Wings,3,Washington Capitals,1,20222023,Final,26,34
+271,2022-11-03,2022020161,New York Rangers,2,Boston Bruins,5,20222023,Final,20,37
+272,2022-11-04,2022020165,Winnipeg Jets,3,Montréal Canadiens,2,20222023,Final,36,22
+273,2022-11-04,2022020166,St. Louis Blues,2,New York Islanders,5,20222023,Final,34,30
+274,2022-11-04,2022020167,Minnesota Wild,0,Seattle Kraken,4,20222023,Final,22,23
+275,2022-11-04,2022020168,Chicago Blackhawks,2,Los Angeles Kings,1,20222023,Final,19,33
+276,2022-11-04,2022020169,Calgary Flames,1,Nashville Predators,4,20222023,Final,30,32
+277,2022-11-04,2022020170,Edmonton Oilers,3,New Jersey Devils,4,20222023,Final,37,43
+278,2022-11-04,2022020171,Vancouver Canucks,8,Anaheim Ducks,5,20222023,Final,47,31
+279,2022-11-04,2022020172,Arizona Coyotes,2,Dallas Stars,7,20222023,Final,30,36
+280,2022-11-04,2022020173,San Jose Sharks,3,Florida Panthers,4,20222023,Final,42,48
+281,2022-11-04,2022020175,Colorado Avalanche,6,Columbus Blue Jackets,3,20222023,Final,36,39
+282,2022-11-04,2022020174,Carolina Hurricanes,5,Buffalo Sabres,3,20222023,Final,33,25
+283,2022-11-05,2022020181,Detroit Red Wings,3,New York Islanders,0,20222023,Final,26,24
+284,2022-11-05,2022020185,Columbus Blue Jackets,1,Colorado Avalanche,5,20222023,Final,32,45
+285,2022-11-05,2022020176,Winnipeg Jets,4,Chicago Blackhawks,0,20222023,Final,37,30
+286,2022-11-05,2022020177,Edmonton Oilers,2,Dallas Stars,6,20222023,Final,30,36
+287,2022-11-05,2022020178,Washington Capitals,2,Arizona Coyotes,3,20222023,Final,36,26
+288,2022-11-05,2022020179,Toronto Maple Leafs,2,Boston Bruins,1,20222023,Final,28,21
+289,2022-11-05,2022020180,Tampa Bay Lightning,5,Buffalo Sabres,3,20222023,Final,30,24
+290,2022-11-05,2022020182,Ottawa Senators,1,Philadelphia Flyers,2,20222023,Final,34,28
+291,2022-11-05,2022020183,Pittsburgh Penguins,2,Seattle Kraken,3,20222023,Final,37,28
+292,2022-11-05,2022020184,Montréal Canadiens,4,Vegas Golden Knights,6,20222023,Final,31,42
+293,2022-11-06,2022020186,Vancouver Canucks,3,Nashville Predators,4,20222023,Final,46,32
+294,2022-11-06,2022020187,Calgary Flames,3,New Jersey Devils,4,20222023,Final,30,35
+295,2022-11-06,2022020188,San Jose Sharks,4,Anaheim Ducks,5,20222023,Final,56,29
+296,2022-11-06,2022020189,Los Angeles Kings,5,Florida Panthers,4,20222023,Final,39,38
+297,2022-11-06,2022020190,New York Rangers,2,Detroit Red Wings,3,20222023,Final,29,36
+298,2022-11-06,2022020191,Carolina Hurricanes,1,Toronto Maple Leafs,3,20222023,Final,30,21
+299,2022-11-07,2022020192,Anaheim Ducks,3,Florida Panthers,5,20222023,Final,35,48
+300,2022-11-08,2022020193,New York Islanders,4,Calgary Flames,3,20222023,Final,32,46
+301,2022-11-08,2022020194,Boston Bruins,3,St. Louis Blues,1,20222023,Final,37,27
+302,2022-11-08,2022020195,Washington Capitals,5,Edmonton Oilers,4,20222023,Final,31,29
+303,2022-11-09,2022020196,Buffalo Sabres,1,Arizona Coyotes,4,20222023,Final,33,24
+304,2022-11-09,2022020197,New Jersey Devils,3,Calgary Flames,2,20222023,Final,20,35
+305,2022-11-09,2022020198,New York Rangers,3,New York Islanders,4,20222023,Final,40,26
+306,2022-11-09,2022020199,Philadelphia Flyers,5,St. Louis Blues,1,20222023,Final,35,28
+307,2022-11-09,2022020200,Ottawa Senators,4,Vancouver Canucks,6,20222023,Final,41,28
+308,2022-11-09,2022020201,Toronto Maple Leafs,3,Vegas Golden Knights,4,20222023,Final,31,20
+309,2022-11-09,2022020203,Detroit Red Wings,2,Montréal Canadiens,3,20222023,Final,45,36
+310,2022-11-09,2022020202,Tampa Bay Lightning,2,Edmonton Oilers,3,20222023,Final,37,29
+311,2022-11-09,2022020204,Winnipeg Jets,5,Dallas Stars,1,20222023,Final,33,22
+312,2022-11-09,2022020205,Seattle Kraken,5,Nashville Predators,1,20222023,Final,20,25
+313,2022-11-09,2022020206,Los Angeles Kings,1,Minnesota Wild,0,20222023,Final,30,21
+314,2022-11-10,2022020207,Florida Panthers,3,Carolina Hurricanes,0,20222023,Final,37,40
+315,2022-11-10,2022020208,Washington Capitals,1,Pittsburgh Penguins,4,20222023,Final,25,28
+316,2022-11-10,2022020209,Montréal Canadiens,5,Vancouver Canucks,2,20222023,Final,29,33
+317,2022-11-10,2022020210,Anaheim Ducks,1,Minnesota Wild,4,20222023,Final,32,39
+318,2022-11-11,2022020211,Boston Bruins,3,Calgary Flames,1,20222023,Final,28,32
+319,2022-11-11,2022020212,Carolina Hurricanes,7,Edmonton Oilers,2,20222023,Final,32,22
+320,2022-11-11,2022020213,New Jersey Devils,4,Ottawa Senators,3,20222023,Final,41,28
+321,2022-11-11,2022020214,Columbus Blue Jackets,5,Philadelphia Flyers,2,20222023,Final,29,34
+322,2022-11-11,2022020215,Buffalo Sabres,4,Vegas Golden Knights,7,20222023,Final,35,36
+323,2022-11-11,2022020217,Detroit Red Wings,2,New York Rangers,8,20222023,Final,20,33
+324,2022-11-11,2022020216,New York Islanders,0,Arizona Coyotes,2,20222023,Final,24,28
+325,2022-11-11,2022020218,St. Louis Blues,5,San Jose Sharks,3,20222023,Final,33,30
+326,2022-11-11,2022020219,Colorado Avalanche,5,Nashville Predators,3,20222023,Final,35,35
+327,2022-11-11,2022020220,Los Angeles Kings,2,Chicago Blackhawks,1,20222023,Final,35,32
+328,2022-11-12,2022020221,Toronto Maple Leafs,2,Pittsburgh Penguins,4,20222023,Final,30,23
+329,2022-11-12,2022020222,Washington Capitals,5,Tampa Bay Lightning,1,20222023,Final,24,29
+330,2022-11-12,2022020223,Dallas Stars,4,San Jose Sharks,5,20222023,Final,29,18
+331,2022-11-12,2022020224,Seattle Kraken,0,Minnesota Wild,1,20222023,Final,28,21
+332,2022-11-12,2022020225,Philadelphia Flyers,1,Ottawa Senators,4,20222023,Final,38,27
+333,2022-11-12,2022020226,Florida Panthers,2,Edmonton Oilers,4,20222023,Final,42,32
+334,2022-11-13,2022020227,New Jersey Devils,4,Arizona Coyotes,2,20222023,Final,26,18
+335,2022-11-13,2022020228,Buffalo Sabres,1,Boston Bruins,3,20222023,Final,31,30
+336,2022-11-13,2022020229,Montréal Canadiens,5,Pittsburgh Penguins,4,20222023,Final,42,24
+337,2022-11-13,2022020230,Toronto Maple Leafs,3,Vancouver Canucks,2,20222023,Final,34,29
+338,2022-11-13,2022020231,New York Islanders,4,Columbus Blue Jackets,3,20222023,Final,46,29
+339,2022-11-13,2022020232,Nashville Predators,2,New York Rangers,1,20222023,Final,18,35
+340,2022-11-13,2022020233,Colorado Avalanche,4,Carolina Hurricanes,1,20222023,Final,28,25
+341,2022-11-13,2022020234,Anaheim Ducks,2,Chicago Blackhawks,3,20222023,Final,41,22
+342,2022-11-13,2022020235,Vegas Golden Knights,2,St. Louis Blues,3,20222023,Final,36,28
+343,2022-11-13,2022020236,Calgary Flames,3,Winnipeg Jets,2,20222023,Final,35,23
+344,2022-11-13,2022020237,Los Angeles Kings,4,Detroit Red Wings,3,20222023,Final,21,21
+345,2022-11-13,2022020238,Philadelphia Flyers,1,Dallas Stars,5,20222023,Final,38,31
+346,2022-11-13,2022020240,Minnesota Wild,2,San Jose Sharks,3,20222023,Final,33,41
+347,2022-11-13,2022020241,Boston Bruins,5,Vancouver Canucks,2,20222023,Final,33,31
+348,2022-11-14,2022020239,New York Rangers,4,Arizona Coyotes,1,20222023,Final,27,32
+349,2022-11-14,2022020242,Tampa Bay Lightning,6,Washington Capitals,3,20222023,Final,35,22
+350,2022-11-14,2022020243,Seattle Kraken,2,Winnipeg Jets,3,20222023,Final,21,30
+351,2022-11-14,2022020244,Ottawa Senators,2,New York Islanders,4,20222023,Final,38,35
+352,2022-11-15,2022020246,Calgary Flames,6,Los Angeles Kings,5,20222023,Final,30,29
+353,2022-11-15,2022020245,Chicago Blackhawks,0,Carolina Hurricanes,3,20222023,Final,27,32
+354,2022-11-15,2022020247,Colorado Avalanche,2,St. Louis Blues,3,20222023,Final,47,39
+355,2022-11-16,2022020248,Tampa Bay Lightning,5,Dallas Stars,4,20222023,Final,38,32
+356,2022-11-16,2022020249,Montréal Canadiens,1,New Jersey Devils,5,20222023,Final,26,39
+357,2022-11-16,2022020251,Pittsburgh Penguins,2,Toronto Maple Leafs,5,20222023,Final,37,33
+358,2022-11-16,2022020252,Buffalo Sabres,4,Vancouver Canucks,5,20222023,Final,32,32
+359,2022-11-16,2022020253,Florida Panthers,5,Washington Capitals,2,20222023,Final,43,43
+360,2022-11-16,2022020250,Columbus Blue Jackets,5,Philadelphia Flyers,4,20222023,Final,33,37
+361,2022-11-16,2022020254,Nashville Predators,2,Minnesota Wild,1,20222023,Final,25,33
+362,2022-11-16,2022020255,Anaheim Ducks,3,Detroit Red Wings,2,20222023,Final,30,33
+363,2022-11-16,2022020256,Vegas Golden Knights,2,San Jose Sharks,5,20222023,Final,26,29
+364,2022-11-17,2022020257,Ottawa Senators,4,Buffalo Sabres,1,20222023,Final,40,30
+365,2022-11-17,2022020258,Chicago Blackhawks,2,St. Louis Blues,5,20222023,Final,27,35
+366,2022-11-17,2022020259,Edmonton Oilers,1,Los Angeles Kings,3,20222023,Final,23,32
+367,2022-11-18,2022020260,Tampa Bay Lightning,4,Calgary Flames,1,20222023,Final,24,40
+368,2022-11-18,2022020261,Carolina Hurricanes,2,Colorado Avalanche,3,20222023,Final,48,15
+369,2022-11-18,2022020262,Florida Panthers,4,Dallas Stars,6,20222023,Final,44,29
+370,2022-11-18,2022020263,Columbus Blue Jackets,6,Montréal Canadiens,4,20222023,Final,29,42
+371,2022-11-18,2022020264,Toronto Maple Leafs,2,New Jersey Devils,3,20222023,Final,27,33
+372,2022-11-18,2022020265,Boston Bruins,4,Philadelphia Flyers,1,20222023,Final,32,23
+373,2022-11-18,2022020266,Winnipeg Jets,3,Anaheim Ducks,2,20222023,Final,32,31
+374,2022-11-18,2022020267,Nashville Predators,5,New York Islanders,4,20222023,Final,31,33
+375,2022-11-18,2022020268,Minnesota Wild,4,Pittsburgh Penguins,6,20222023,Final,23,32
+376,2022-11-18,2022020269,St. Louis Blues,5,Washington Capitals,4,20222023,Final,28,57
+377,2022-11-18,2022020270,Vegas Golden Knights,4,Arizona Coyotes,1,20222023,Final,39,26
+378,2022-11-18,2022020271,Seattle Kraken,3,New York Rangers,2,20222023,Final,32,30
+379,2022-11-18,2022020272,San Jose Sharks,4,Detroit Red Wings,7,20222023,Final,25,21
+380,2022-11-19,2022020273,Vancouver Canucks,4,Los Angeles Kings,1,20222023,Final,25,38
+381,2022-11-19,2022020274,Ottawa Senators,1,New Jersey Devils,5,20222023,Final,26,36
+382,2022-11-19,2022020275,Florida Panthers,4,Calgary Flames,5,20222023,Final,40,40
+383,2022-11-20,2022020281,Winnipeg Jets,0,Pittsburgh Penguins,3,20222023,Final,32,32
+384,2022-11-20,2022020276,Toronto Maple Leafs,5,Buffalo Sabres,2,20222023,Final,24,34
+385,2022-11-20,2022020277,Boston Bruins,6,Chicago Blackhawks,1,20222023,Final,43,18
+386,2022-11-20,2022020278,Washington Capitals,0,Colorado Avalanche,4,20222023,Final,32,29
+387,2022-11-20,2022020279,Columbus Blue Jackets,1,Detroit Red Wings,6,20222023,Final,28,37
+388,2022-11-20,2022020280,Montréal Canadiens,5,Philadelphia Flyers,4,20222023,Final,34,31
+389,2022-11-20,2022020282,St. Louis Blues,6,Anaheim Ducks,2,20222023,Final,34,32
+390,2022-11-20,2022020283,Minnesota Wild,2,Carolina Hurricanes,1,20222023,Final,21,21
+391,2022-11-20,2022020284,Dallas Stars,5,New York Islanders,2,20222023,Final,35,29
+392,2022-11-20,2022020285,Nashville Predators,2,Tampa Bay Lightning,3,20222023,Final,32,39
+393,2022-11-20,2022020286,Seattle Kraken,3,Los Angeles Kings,2,20222023,Final,29,29
+394,2022-11-20,2022020287,Edmonton Oilers,4,Vegas Golden Knights,3,20222023,Final,23,34
+395,2022-11-20,2022020288,San Jose Sharks,1,New York Rangers,2,20222023,Final,23,43
+396,2022-11-20,2022020289,Columbus Blue Jackets,5,Florida Panthers,3,20222023,Final,23,50
+397,2022-11-21,2022020290,Chicago Blackhawks,3,Pittsburgh Penguins,5,20222023,Final,32,25
+398,2022-11-22,2022020291,Tampa Bay Lightning,3,Boston Bruins,5,20222023,Final,35,29
+399,2022-11-22,2022020292,Philadelphia Flyers,2,Calgary Flames,5,20222023,Final,25,30
+400,2022-11-22,2022020293,New Jersey Devils,5,Edmonton Oilers,2,20222023,Final,28,30
+401,2022-11-22,2022020294,Winnipeg Jets,4,Carolina Hurricanes,3,20222023,Final,23,27
+402,2022-11-22,2022020295,Toronto Maple Leafs,2,New York Islanders,3,20222023,Final,32,24
+403,2022-11-22,2022020296,St. Louis Blues,3,Anaheim Ducks,1,20222023,Final,27,28
+404,2022-11-22,2022020297,Nashville Predators,4,Arizona Coyotes,3,20222023,Final,52,34
+405,2022-11-22,2022020298,Dallas Stars,2,Colorado Avalanche,3,20222023,Final,26,37
+406,2022-11-22,2022020299,San Jose Sharks,5,Ottawa Senators,1,20222023,Final,31,38
+407,2022-11-22,2022020300,Vancouver Canucks,4,Vegas Golden Knights,5,20222023,Final,29,38
+408,2022-11-23,2022020301,Montréal Canadiens,2,Buffalo Sabres,7,20222023,Final,31,38
+409,2022-11-23,2022020302,Los Angeles Kings,3,New York Rangers,5,20222023,Final,38,25
+410,2022-11-24,2022020309,Minnesota Wild,6,Winnipeg Jets,1,20222023,Final,39,29
+411,2022-11-24,2022020303,Carolina Hurricanes,0,Arizona Coyotes,4,20222023,Final,36,27
+412,2022-11-24,2022020304,Florida Panthers,5,Boston Bruins,2,20222023,Final,31,39
+413,2022-11-24,2022020305,Pittsburgh Penguins,2,Calgary Flames,1,20222023,Final,43,37
+414,2022-11-24,2022020306,Columbus Blue Jackets,1,Montréal Canadiens,3,20222023,Final,31,29
+415,2022-11-24,2022020307,Buffalo Sabres,6,St. Louis Blues,2,20222023,Final,32,36
+416,2022-11-24,2022020308,New Jersey Devils,1,Toronto Maple Leafs,2,20222023,Final,35,20
+417,2022-11-24,2022020311,Detroit Red Wings,3,Nashville Predators,0,20222023,Final,29,26
+418,2022-11-24,2022020310,New York Islanders,3,Edmonton Oilers,0,20222023,Final,31,49
+419,2022-11-24,2022020312,Washington Capitals,3,Philadelphia Flyers,2,20222023,Final,32,23
+420,2022-11-24,2022020313,Dallas Stars,6,Chicago Blackhawks,4,20222023,Final,39,31
+421,2022-11-24,2022020314,Anaheim Ducks,3,New York Rangers,2,20222023,Final,22,43
+422,2022-11-24,2022020315,Vegas Golden Knights,4,Ottawa Senators,1,20222023,Final,36,40
+423,2022-11-24,2022020316,Seattle Kraken,8,San Jose Sharks,5,20222023,Final,27,26
+424,2022-11-24,2022020317,Colorado Avalanche,3,Vancouver Canucks,4,20222023,Final,36,25
+425,2022-11-25,2022020318,Boston Bruins,3,Carolina Hurricanes,2,20222023,Final,41,36
+426,2022-11-25,2022020321,Chicago Blackhawks,2,Montréal Canadiens,3,20222023,Final,35,26
+427,2022-11-25,2022020322,Minnesota Wild,3,Toronto Maple Leafs,4,20222023,Final,28,28
+428,2022-11-25,2022020319,Washington Capitals,3,Calgary Flames,0,20222023,Final,25,32
+429,2022-11-25,2022020323,Anaheim Ducks,1,Ottawa Senators,5,20222023,Final,32,33
+430,2022-11-25,2022020324,Philadelphia Flyers,1,Pittsburgh Penguins,4,20222023,Final,30,29
+431,2022-11-26,2022020329,Vegas Golden Knights,2,Seattle Kraken,4,20222023,Final,22,28
+432,2022-11-26,2022020325,Detroit Red Wings,4,Arizona Coyotes,3,20222023,Final,39,26
+433,2022-11-26,2022020326,Columbus Blue Jackets,2,New York Islanders,3,20222023,Final,26,24
+434,2022-11-26,2022020327,Buffalo Sabres,1,New Jersey Devils,3,20222023,Final,34,44
+435,2022-11-26,2022020328,Tampa Bay Lightning,5,St. Louis Blues,2,20222023,Final,27,27
+436,2022-11-26,2022020330,Dallas Stars,4,Winnipeg Jets,5,20222023,Final,41,28
+437,2022-11-26,2022020331,San Jose Sharks,2,Los Angeles Kings,5,20222023,Final,31,29
+438,2022-11-26,2022020332,New York Rangers,3,Edmonton Oilers,4,20222023,Final,23,32
+439,2022-11-26,2022020333,Carolina Hurricanes,3,Calgary Flames,2,20222023,Final,33,20
+440,2022-11-26,2022020334,Florida Panthers,4,St. Louis Blues,5,20222023,Final,37,37
+441,2022-11-27,2022020335,Pittsburgh Penguins,1,Toronto Maple Leafs,4,20222023,Final,26,41
+442,2022-11-27,2022020336,New Jersey Devils,5,Washington Capitals,1,20222023,Final,29,38
+443,2022-11-27,2022020337,New York Islanders,5,Philadelphia Flyers,2,20222023,Final,23,28
+444,2022-11-27,2022020339,Colorado Avalanche,4,Dallas Stars,1,20222023,Final,36,42
+445,2022-11-27,2022020340,Vegas Golden Knights,1,Vancouver Canucks,5,20222023,Final,27,36
+446,2022-11-27,2022020341,Minnesota Wild,4,Arizona Coyotes,3,20222023,Final,29,23
+447,2022-11-28,2022020342,Chicago Blackhawks,2,Winnipeg Jets,7,20222023,Final,25,44
+448,2022-11-28,2022020343,Anaheim Ducks,4,Seattle Kraken,5,20222023,Final,29,25
+449,2022-11-28,2022020344,San Jose Sharks,3,Vancouver Canucks,4,20222023,Final,35,20
+450,2022-11-28,2022020345,Los Angeles Kings,2,Ottawa Senators,3,20222023,Final,27,39
+451,2022-11-29,2022020346,New York Rangers,3,New Jersey Devils,5,20222023,Final,38,38
+452,2022-11-29,2022020347,Buffalo Sabres,5,Tampa Bay Lightning,6,20222023,Final,37,25
+453,2022-11-29,2022020348,Detroit Red Wings,2,Toronto Maple Leafs,4,20222023,Final,44,25
+454,2022-11-29,2022020349,Columbus Blue Jackets,2,Vegas Golden Knights,3,20222023,Final,33,39
+455,2022-11-29,2022020350,St. Louis Blues,1,Dallas Stars,4,20222023,Final,24,24
+456,2022-11-29,2022020351,Edmonton Oilers,4,Florida Panthers,3,20222023,Final,40,28
+457,2022-11-30,2022020352,Pittsburgh Penguins,2,Carolina Hurricanes,3,20222023,Final,32,39
+458,2022-11-30,2022020354,Montréal Canadiens,0,San Jose Sharks,4,20222023,Final,28,24
+459,2022-11-30,2022020355,Boston Bruins,3,Tampa Bay Lightning,1,20222023,Final,26,28
+460,2022-11-30,2022020353,Philadelphia Flyers,3,New York Islanders,1,20222023,Final,33,24
+461,2022-11-30,2022020356,Nashville Predators,2,Anaheim Ducks,1,20222023,Final,41,35
+462,2022-11-30,2022020357,Winnipeg Jets,5,Colorado Avalanche,0,20222023,Final,23,40
+463,2022-11-30,2022020358,Calgary Flames,6,Florida Panthers,2,20222023,Final,23,33
+464,2022-11-30,2022020359,Vancouver Canucks,1,Washington Capitals,5,20222023,Final,32,28
+465,2022-11-30,2022020360,Los Angeles Kings,8,Seattle Kraken,9,20222023,Final,35,30
+466,2022-12-01,2022020361,Detroit Red Wings,4,Buffalo Sabres,5,20222023,Final,46,37
+467,2022-12-01,2022020362,Ottawa Senators,1,New York Rangers,3,20222023,Final,35,36
+468,2022-12-01,2022020363,Toronto Maple Leafs,3,San Jose Sharks,1,20222023,Final,32,24
+469,2022-12-01,2022020364,Chicago Blackhawks,4,Edmonton Oilers,5,20222023,Final,25,41
+470,2022-12-02,2022020365,Buffalo Sabres,4,Colorado Avalanche,6,20222023,Final,28,34
+471,2022-12-02,2022020366,New Jersey Devils,3,Nashville Predators,4,20222023,Final,28,24
+472,2022-12-02,2022020367,Philadelphia Flyers,1,Tampa Bay Lightning,4,20222023,Final,22,27
+473,2022-12-02,2022020368,Pittsburgh Penguins,4,Vegas Golden Knights,3,20222023,Final,47,37
+474,2022-12-02,2022020369,St. Louis Blues,4,Carolina Hurricanes,6,20222023,Final,26,36
+475,2022-12-02,2022020370,Minnesota Wild,5,Edmonton Oilers,3,20222023,Final,30,21
+476,2022-12-02,2022020371,Dallas Stars,5,Anaheim Ducks,0,20222023,Final,41,31
+477,2022-12-02,2022020372,Calgary Flames,1,Montréal Canadiens,2,20222023,Final,46,19
+478,2022-12-02,2022020373,Vancouver Canucks,1,Florida Panthers,5,20222023,Final,33,32
+479,2022-12-02,2022020374,Seattle Kraken,3,Washington Capitals,2,20222023,Final,25,23
+480,2022-12-02,2022020375,Los Angeles Kings,5,Arizona Coyotes,3,20222023,Final,32,21
+481,2022-12-03,2022020376,New York Rangers,2,Ottawa Senators,3,20222023,Final,27,37
+482,2022-12-03,2022020377,New York Islanders,1,Nashville Predators,4,20222023,Final,49,23
+483,2022-12-03,2022020378,Winnipeg Jets,1,Columbus Blue Jackets,4,20222023,Final,38,26
+484,2022-12-03,2022020379,Minnesota Wild,5,Anaheim Ducks,4,20222023,Final,52,36
+485,2022-12-04,2022020381,Edmonton Oilers,5,Montréal Canadiens,3,20222023,Final,22,33
+486,2022-12-04,2022020380,Boston Bruins,5,Colorado Avalanche,1,20222023,Final,40,25
+487,2022-12-04,2022020382,Philadelphia Flyers,2,New Jersey Devils,3,20222023,Final,33,18
+488,2022-12-04,2022020383,Ottawa Senators,5,San Jose Sharks,2,20222023,Final,39,37
+489,2022-12-04,2022020384,Pittsburgh Penguins,6,St. Louis Blues,2,20222023,Final,38,28
+490,2022-12-04,2022020385,Tampa Bay Lightning,4,Toronto Maple Leafs,3,20222023,Final,33,39
+491,2022-12-04,2022020386,Detroit Red Wings,1,Vegas Golden Knights,4,20222023,Final,25,25
+492,2022-12-04,2022020387,New York Rangers,2,Chicago Blackhawks,5,20222023,Final,28,21
+493,2022-12-04,2022020388,Vancouver Canucks,3,Arizona Coyotes,2,20222023,Final,32,23
+494,2022-12-04,2022020389,Seattle Kraken,1,Florida Panthers,5,20222023,Final,36,28
+495,2022-12-04,2022020390,Calgary Flames,5,Washington Capitals,2,20222023,Final,36,29
+496,2022-12-04,2022020391,Los Angeles Kings,2,Carolina Hurricanes,4,20222023,Final,33,31
+497,2022-12-04,2022020392,Winnipeg Jets,5,Anaheim Ducks,2,20222023,Final,40,30
+498,2022-12-04,2022020393,Dallas Stars,5,Minnesota Wild,6,20222023,Final,37,34
+499,2022-12-04,2022020394,Columbus Blue Jackets,2,Detroit Red Wings,4,20222023,Final,34,35
+500,2022-12-05,2022020395,Buffalo Sabres,6,San Jose Sharks,3,20222023,Final,38,29
+501,2022-12-05,2022020396,New York Islanders,3,Chicago Blackhawks,0,20222023,Final,40,21
+502,2022-12-06,2022020397,Philadelphia Flyers,5,Colorado Avalanche,3,20222023,Final,34,32
+503,2022-12-06,2022020398,New York Rangers,6,St. Louis Blues,4,20222023,Final,24,29
+504,2022-12-06,2022020399,Boston Bruins,3,Vegas Golden Knights,4,20222023,Final,46,28
+505,2022-12-06,2022020400,Edmonton Oilers,2,Washington Capitals,3,20222023,Final,30,50
+506,2022-12-06,2022020401,Calgary Flames,3,Arizona Coyotes,2,20222023,Final,27,20
+507,2022-12-06,2022020402,Vancouver Canucks,7,Montréal Canadiens,6,20222023,Final,32,26
+508,2022-12-07,2022020403,New Jersey Devils,3,Chicago Blackhawks,0,20222023,Final,29,24
+509,2022-12-07,2022020404,Pittsburgh Penguins,4,Columbus Blue Jackets,1,20222023,Final,34,39
+510,2022-12-07,2022020405,Tampa Bay Lightning,2,Detroit Red Wings,4,20222023,Final,46,26
+511,2022-12-07,2022020406,Ottawa Senators,2,Los Angeles Kings,5,20222023,Final,33,28
+512,2022-12-07,2022020407,New York Islanders,4,St. Louis Blues,7,20222023,Final,40,28
+513,2022-12-07,2022020408,Winnipeg Jets,5,Florida Panthers,2,20222023,Final,31,41
+514,2022-12-07,2022020409,Dallas Stars,0,Toronto Maple Leafs,4,20222023,Final,44,29
+515,2022-12-07,2022020410,Anaheim Ducks,4,Carolina Hurricanes,3,20222023,Final,30,37
+516,2022-12-07,2022020411,Seattle Kraken,2,Montréal Canadiens,4,20222023,Final,33,16
+517,2022-12-08,2022020413,Philadelphia Flyers,1,Washington Capitals,4,20222023,Final,30,27
+518,2022-12-08,2022020412,Columbus Blue Jackets,4,Buffalo Sabres,9,20222023,Final,24,30
+519,2022-12-08,2022020414,Calgary Flames,5,Minnesota Wild,3,20222023,Final,27,28
+520,2022-12-08,2022020415,Colorado Avalanche,0,Boston Bruins,4,20222023,Final,23,37
+521,2022-12-08,2022020416,Edmonton Oilers,8,Arizona Coyotes,2,20222023,Final,35,18
+522,2022-12-08,2022020417,Vegas Golden Knights,1,New York Rangers,5,20222023,Final,26,37
+523,2022-12-08,2022020418,San Jose Sharks,5,Vancouver Canucks,6,20222023,Final,39,27
+524,2022-12-09,2022020420,Toronto Maple Leafs,5,Los Angeles Kings,0,20222023,Final,41,29
+525,2022-12-09,2022020421,Tampa Bay Lightning,5,Nashville Predators,2,20222023,Final,33,36
+526,2022-12-09,2022020419,Florida Panthers,5,Detroit Red Wings,1,20222023,Final,41,20
+527,2022-12-09,2022020422,St. Louis Blues,2,Winnipeg Jets,5,20222023,Final,31,20
+528,2022-12-09,2022020423,Dallas Stars,4,Ottawa Senators,3,20222023,Final,32,31
+529,2022-12-10,2022020424,Columbus Blue Jackets,3,Calgary Flames,1,20222023,Final,27,32
+530,2022-12-10,2022020425,New Jersey Devils,4,New York Islanders,6,20222023,Final,29,32
+531,2022-12-10,2022020426,Buffalo Sabres,3,Pittsburgh Penguins,4,20222023,Final,31,33
+532,2022-12-10,2022020427,Washington Capitals,4,Seattle Kraken,1,20222023,Final,38,26
+533,2022-12-10,2022020428,Chicago Blackhawks,1,Winnipeg Jets,3,20222023,Final,23,32
+534,2022-12-10,2022020429,Edmonton Oilers,5,Minnesota Wild,2,20222023,Final,38,44
+535,2022-12-10,2022020430,Colorado Avalanche,1,New York Rangers,2,20222023,Final,44,31
+536,2022-12-10,2022020431,Arizona Coyotes,4,Boston Bruins,3,20222023,Final,16,46
+537,2022-12-10,2022020432,Vegas Golden Knights,2,Philadelphia Flyers,1,20222023,Final,34,28
+538,2022-12-10,2022020433,Anaheim Ducks,1,San Jose Sharks,6,20222023,Final,24,28
+539,2022-12-10,2022020434,Nashville Predators,2,Ottawa Senators,3,20222023,Final,29,33
+540,2022-12-10,2022020435,Dallas Stars,3,Detroit Red Wings,2,20222023,Final,33,26
+541,2022-12-10,2022020436,Tampa Bay Lightning,4,Florida Panthers,1,20222023,Final,38,25
+542,2022-12-11,2022020437,Pittsburgh Penguins,3,Buffalo Sabres,1,20222023,Final,31,38
+543,2022-12-11,2022020438,Toronto Maple Leafs,5,Calgary Flames,4,20222023,Final,34,26
+544,2022-12-11,2022020439,Montréal Canadiens,2,Los Angeles Kings,4,20222023,Final,22,35
+545,2022-12-11,2022020440,New York Islanders,0,Carolina Hurricanes,3,20222023,Final,16,29
+546,2022-12-11,2022020441,Vancouver Canucks,0,Minnesota Wild,3,20222023,Final,35,33
+547,2022-12-11,2022020442,St. Louis Blues,2,Colorado Avalanche,3,20222023,Final,32,31
+548,2022-12-11,2022020443,Columbus Blue Jackets,6,Los Angeles Kings,5,20222023,Final,26,38
+549,2022-12-11,2022020444,Florida Panthers,2,Seattle Kraken,5,20222023,Final,25,32
+550,2022-12-12,2022020445,Arizona Coyotes,5,Philadelphia Flyers,4,20222023,Final,29,41
+551,2022-12-12,2022020446,Winnipeg Jets,2,Washington Capitals,5,20222023,Final,31,36
+552,2022-12-12,2022020447,Vegas Golden Knights,1,Boston Bruins,3,20222023,Final,31,27
+553,2022-12-13,2022020448,Montréal Canadiens,2,Calgary Flames,1,20222023,Final,40,37
+554,2022-12-13,2022020449,Pittsburgh Penguins,2,Dallas Stars,1,20222023,Final,25,27
+555,2022-12-13,2022020450,New York Rangers,4,New Jersey Devils,3,20222023,Final,23,29
+556,2022-12-13,2022020451,Ottawa Senators,3,Anaheim Ducks,0,20222023,Final,38,32
+557,2022-12-13,2022020452,Minnesota Wild,2,Edmonton Oilers,1,20222023,Final,30,21
+558,2022-12-13,2022020453,St. Louis Blues,1,Nashville Predators,0,20222023,Final,24,25
+559,2022-12-14,2022020454,Toronto Maple Leafs,7,Anaheim Ducks,0,20222023,Final,42,28
+560,2022-12-14,2022020455,Florida Panthers,4,Columbus Blue Jackets,0,20222023,Final,26,22
+561,2022-12-14,2022020456,New Jersey Devils,1,Dallas Stars,4,20222023,Final,36,32
+562,2022-12-14,2022020457,Buffalo Sabres,6,Los Angeles Kings,0,20222023,Final,31,40
+563,2022-12-14,2022020458,Boston Bruins,4,New York Islanders,3,20222023,Final,36,27
+564,2022-12-14,2022020459,Tampa Bay Lightning,6,Seattle Kraken,2,20222023,Final,30,38
+565,2022-12-14,2022020460,Detroit Red Wings,0,Carolina Hurricanes,1,20222023,Final,27,27
+566,2022-12-14,2022020461,Nashville Predators,3,Edmonton Oilers,6,20222023,Final,32,37
+567,2022-12-14,2022020462,Winnipeg Jets,5,Vegas Golden Knights,6,20222023,Final,34,33
+568,2022-12-14,2022020464,Colorado Avalanche,3,Philadelphia Flyers,2,20222023,Final,25,28
+569,2022-12-14,2022020463,Chicago Blackhawks,3,Washington Capitals,7,20222023,Final,29,30
+570,2022-12-14,2022020465,San Jose Sharks,3,Arizona Coyotes,2,20222023,Final,33,22
+571,2022-12-15,2022020466,Ottawa Senators,3,Montréal Canadiens,2,20222023,Final,31,25
+572,2022-12-15,2022020467,Minnesota Wild,4,Detroit Red Wings,1,20222023,Final,22,17
+573,2022-12-15,2022020468,Calgary Flames,3,Vancouver Canucks,4,20222023,Final,38,28
+574,2022-12-16,2022020469,Montréal Canadiens,2,Anaheim Ducks,5,20222023,Final,25,32
+575,2022-12-16,2022020470,Tampa Bay Lightning,4,Columbus Blue Jackets,1,20222023,Final,29,25
+576,2022-12-16,2022020471,Washington Capitals,1,Dallas Stars,2,20222023,Final,46,26
+577,2022-12-16,2022020472,Boston Bruins,2,Los Angeles Kings,3,20222023,Final,41,36
+578,2022-12-16,2022020473,New Jersey Devils,1,Philadelphia Flyers,2,20222023,Final,49,24
+579,2022-12-16,2022020474,Florida Panthers,2,Pittsburgh Penguins,4,20222023,Final,34,39
+580,2022-12-16,2022020475,Carolina Hurricanes,3,Seattle Kraken,2,20222023,Final,39,17
+581,2022-12-16,2022020476,New York Rangers,3,Toronto Maple Leafs,1,20222023,Final,20,23
+582,2022-12-16,2022020477,Winnipeg Jets,2,Nashville Predators,1,20222023,Final,41,26
+583,2022-12-16,2022020478,Chicago Blackhawks,1,Vegas Golden Knights,4,20222023,Final,25,25
+584,2022-12-16,2022020479,Colorado Avalanche,2,Buffalo Sabres,4,20222023,Final,41,21
+585,2022-12-16,2022020480,Edmonton Oilers,3,St. Louis Blues,4,20222023,Final,29,34
+586,2022-12-17,2022020481,Minnesota Wild,4,Chicago Blackhawks,1,20222023,Final,22,30
+587,2022-12-17,2022020482,Calgary Flames,2,St. Louis Blues,5,20222023,Final,43,24
+588,2022-12-17,2022020483,Arizona Coyotes,5,New York Islanders,4,20222023,Final,29,34
+589,2022-12-17,2022020484,Boston Bruins,4,Columbus Blue Jackets,2,20222023,Final,39,33
+590,2022-12-17,2022020485,Detroit Red Wings,3,Ottawa Senators,6,20222023,Final,32,28
+591,2022-12-17,2022020486,Edmonton Oilers,3,Anaheim Ducks,4,20222023,Final,49,17
+592,2022-12-18,2022020487,Carolina Hurricanes,5,Dallas Stars,4,20222023,Final,38,30
+593,2022-12-18,2022020489,Philadelphia Flyers,3,New York Rangers,6,20222023,Final,32,35
+594,2022-12-18,2022020490,Montréal Canadiens,1,Tampa Bay Lightning,5,20222023,Final,23,27
+595,2022-12-18,2022020491,Washington Capitals,5,Toronto Maple Leafs,2,20222023,Final,28,36
+596,2022-12-18,2022020488,New Jersey Devils,2,Florida Panthers,4,20222023,Final,32,29
+597,2022-12-18,2022020492,Arizona Coyotes,2,Buffalo Sabres,5,20222023,Final,31,43
+598,2022-12-18,2022020493,Colorado Avalanche,3,Nashville Predators,1,20222023,Final,30,26
+599,2022-12-18,2022020494,Vegas Golden Knights,2,New York Islanders,5,20222023,Final,38,26
+600,2022-12-18,2022020495,Vancouver Canucks,1,Winnipeg Jets,5,20222023,Final,23,27
+601,2022-12-18,2022020496,Los Angeles Kings,3,San Jose Sharks,2,20222023,Final,44,28
+602,2022-12-18,2022020497,Minnesota Wild,4,Ottawa Senators,2,20222023,Final,23,28
+603,2022-12-18,2022020498,Carolina Hurricanes,3,Pittsburgh Penguins,2,20222023,Final,29,25
+604,2022-12-19,2022020499,Chicago Blackhawks,1,New York Rangers,7,20222023,Final,30,26
+605,2022-12-19,2022020500,Seattle Kraken,3,Winnipeg Jets,2,20222023,Final,34,17
+606,2022-12-19,2022020501,San Jose Sharks,2,Calgary Flames,5,20222023,Final,26,25
+607,2022-12-20,2022020502,Columbus Blue Jackets,1,Dallas Stars,2,20222023,Final,28,34
+608,2022-12-20,2022020503,Washington Capitals,4,Detroit Red Wings,3,20222023,Final,42,19
+609,2022-12-20,2022020504,Boston Bruins,7,Florida Panthers,3,20222023,Final,26,39
+610,2022-12-20,2022020505,Nashville Predators,4,Edmonton Oilers,3,20222023,Final,35,33
+611,2022-12-20,2022020506,Colorado Avalanche,1,New York Islanders,0,20222023,Final,48,27
+612,2022-12-20,2022020507,Vegas Golden Knights,2,Buffalo Sabres,3,20222023,Final,43,18
+613,2022-12-20,2022020508,Arizona Coyotes,2,Montréal Canadiens,3,20222023,Final,39,26
+614,2022-12-20,2022020509,Vancouver Canucks,1,St. Louis Blues,5,20222023,Final,34,27
+615,2022-12-21,2022020510,Philadelphia Flyers,5,Columbus Blue Jackets,3,20222023,Final,39,33
+616,2022-12-21,2022020511,Pittsburgh Penguins,3,New York Rangers,2,20222023,Final,24,28
+617,2022-12-21,2022020512,Carolina Hurricanes,4,New Jersey Devils,1,20222023,Final,20,38
+618,2022-12-21,2022020513,Toronto Maple Leafs,4,Tampa Bay Lightning,1,20222023,Final,40,19
+619,2022-12-21,2022020514,Winnipeg Jets,5,Ottawa Senators,1,20222023,Final,24,36
+620,2022-12-21,2022020515,Seattle Kraken,5,St. Louis Blues,2,20222023,Final,33,24
+621,2022-12-21,2022020516,Los Angeles Kings,4,Anaheim Ducks,1,20222023,Final,41,25
+622,2022-12-21,2022020517,San Jose Sharks,3,Calgary Flames,7,20222023,Final,27,39
+623,2022-12-22,2022020518,Florida Panthers,2,New Jersey Devils,4,20222023,Final,36,33
+624,2022-12-22,2022020519,Detroit Red Wings,7,Tampa Bay Lightning,4,20222023,Final,31,38
+625,2022-12-22,2022020520,Colorado Avalanche,2,Montréal Canadiens,1,20222023,Final,36,20
+626,2022-12-22,2022020521,Chicago Blackhawks,2,Nashville Predators,4,20222023,Final,39,37
+627,2022-12-22,2022020522,Dallas Stars,3,Edmonton Oilers,6,20222023,Final,27,34
+628,2022-12-22,2022020523,Vegas Golden Knights,5,Arizona Coyotes,2,20222023,Final,34,23
+629,2022-12-22,2022020524,Anaheim Ducks,1,Minnesota Wild,4,20222023,Final,22,42
+630,2022-12-22,2022020525,Toronto Maple Leafs,4,Philadelphia Flyers,3,20222023,Final,34,19
+631,2022-12-23,2022020526,Pittsburgh Penguins,3,Carolina Hurricanes,4,20222023,Final,27,36
+632,2022-12-23,2022020527,New York Rangers,5,New York Islanders,3,20222023,Final,34,18
+633,2022-12-23,2022020528,Ottawa Senators,2,Washington Capitals,3,20222023,Final,25,40
+634,2022-12-23,2022020529,Boston Bruins,3,Winnipeg Jets,2,20222023,Final,39,27
+635,2022-12-23,2022020530,Vancouver Canucks,6,Seattle Kraken,5,20222023,Final,40,39
+636,2022-12-23,2022020531,Los Angeles Kings,4,Calgary Flames,3,20222023,Final,32,30
+637,2022-12-23,2022020532,San Jose Sharks,5,Minnesota Wild,2,20222023,Final,25,26
+638,2022-12-24,2022020533,New Jersey Devils,3,Boston Bruins,4,20222023,Final,40,23
+639,2022-12-24,2022020535,Carolina Hurricanes,6,Philadelphia Flyers,5,20222023,Final,37,31
+640,2022-12-24,2022020537,Washington Capitals,4,Winnipeg Jets,1,20222023,Final,27,26
+641,2022-12-24,2022020538,New York Islanders,5,Florida Panthers,1,20222023,Final,43,23
+642,2022-12-24,2022020539,Nashville Predators,2,Colorado Avalanche,3,20222023,Final,39,46
+643,2022-12-24,2022020541,Dallas Stars,4,Montréal Canadiens,2,20222023,Final,36,24
+644,2022-12-24,2022020540,Chicago Blackhawks,5,Columbus Blue Jackets,2,20222023,Final,38,29
+645,2022-12-24,2022020542,Edmonton Oilers,2,Vancouver Canucks,5,20222023,Final,33,30
+646,2022-12-24,2022020543,Arizona Coyotes,2,Los Angeles Kings,1,20222023,Final,26,29
+647,2022-12-24,2022020545,Vegas Golden Knights,5,St. Louis Blues,4,20222023,Final,36,31
+648,2022-12-24,2022020544,Anaheim Ducks,2,Calgary Flames,3,20222023,Final,23,45
+649,2022-12-28,2022020546,Ottawa Senators,3,Boston Bruins,2,20222023,Final,35,53
+650,2022-12-28,2022020548,Carolina Hurricanes,3,Chicago Blackhawks,0,20222023,Final,49,24
+651,2022-12-28,2022020549,New York Rangers,0,Washington Capitals,4,20222023,Final,32,30
+652,2022-12-28,2022020550,New York Islanders,5,Pittsburgh Penguins,1,20222023,Final,42,21
+653,2022-12-28,2022020551,Nashville Predators,2,Dallas Stars,3,20222023,Final,28,33
+654,2022-12-28,2022020552,Winnipeg Jets,1,Minnesota Wild,4,20222023,Final,32,28
+655,2022-12-28,2022020553,St. Louis Blues,4,Toronto Maple Leafs,5,20222023,Final,34,37
+656,2022-12-28,2022020554,Arizona Coyotes,6,Colorado Avalanche,3,20222023,Final,33,31
+657,2022-12-28,2022020555,Calgary Flames,1,Edmonton Oilers,2,20222023,Final,47,22
+658,2022-12-28,2022020556,Vancouver Canucks,6,San Jose Sharks,2,20222023,Final,25,26
+659,2022-12-28,2022020557,Los Angeles Kings,4,Vegas Golden Knights,2,20222023,Final,25,25
+660,2022-12-29,2022020559,Tampa Bay Lightning,4,Montréal Canadiens,1,20222023,Final,38,26
+661,2022-12-29,2022020558,New Jersey Devils,1,Boston Bruins,3,20222023,Final,31,27
+662,2022-12-29,2022020560,Pittsburgh Penguins,4,Detroit Red Wings,5,20222023,Final,31,46
+663,2022-12-29,2022020561,Seattle Kraken,2,Calgary Flames,3,20222023,Final,31,44
+664,2022-12-29,2022020562,Anaheim Ducks,3,Vegas Golden Knights,2,20222023,Final,29,52
+665,2022-12-30,2022020563,Buffalo Sabres,6,Detroit Red Wings,3,20222023,Final,35,31
+666,2022-12-30,2022020564,Florida Panthers,7,Montréal Canadiens,2,20222023,Final,41,27
+667,2022-12-30,2022020565,Tampa Bay Lightning,2,New York Rangers,1,20222023,Final,46,51
+668,2022-12-30,2022020566,Washington Capitals,3,Ottawa Senators,4,20222023,Final,23,45
+669,2022-12-30,2022020567,New York Islanders,2,Columbus Blue Jackets,1,20222023,Final,36,21
+670,2022-12-30,2022020568,St. Louis Blues,3,Chicago Blackhawks,1,20222023,Final,29,22
+671,2022-12-30,2022020569,Minnesota Wild,1,Dallas Stars,4,20222023,Final,24,43
+672,2022-12-30,2022020570,Winnipeg Jets,4,Vancouver Canucks,2,20222023,Final,39,22
+673,2022-12-30,2022020571,Colorado Avalanche,4,Los Angeles Kings,5,20222023,Final,29,30
+674,2022-12-30,2022020572,Arizona Coyotes,6,Toronto Maple Leafs,3,20222023,Final,23,32
+675,2022-12-30,2022020573,San Jose Sharks,3,Philadelphia Flyers,4,20222023,Final,28,26
+676,2022-12-30,2022020574,Anaheim Ducks,1,Nashville Predators,6,20222023,Final,27,43
+677,2022-12-31,2022020576,Pittsburgh Penguins,2,New Jersey Devils,4,20222023,Final,27,28
+678,2022-12-31,2022020575,Carolina Hurricanes,4,Florida Panthers,0,20222023,Final,34,19
+679,2022-12-31,2022020577,Seattle Kraken,2,Edmonton Oilers,7,20222023,Final,38,32
+680,2022-12-31,2022020578,Boston Bruins,3,Buffalo Sabres,4,20222023,Final,40,25
+681,2022-12-31,2022020583,Columbus Blue Jackets,4,Chicago Blackhawks,1,20222023,Final,38,28
+682,2022-12-31,2022020579,Vegas Golden Knights,5,Nashville Predators,4,20222023,Final,32,37
+683,2022-12-31,2022020581,Los Angeles Kings,2,Philadelphia Flyers,4,20222023,Final,29,23
+684,2022-12-31,2022020580,Washington Capitals,9,Montréal Canadiens,2,20222023,Final,40,33
+685,2022-12-31,2022020582,Tampa Bay Lightning,5,Arizona Coyotes,3,20222023,Final,35,31
+686,2022-12-31,2022020589,St. Louis Blues,2,Minnesota Wild,5,20222023,Final,31,32
+687,2023-01-01,2022020585,Colorado Avalanche,2,Toronto Maple Leafs,6,20222023,Final,28,32
+688,2023-01-01,2022020584,Detroit Red Wings,4,Ottawa Senators,2,20222023,Final,25,23
+689,2023-01-01,2022020586,Dallas Stars,5,San Jose Sharks,2,20222023,Final,31,31
+690,2023-01-01,2022020587,Calgary Flames,3,Vancouver Canucks,2,20222023,Final,30,24
+691,2023-01-01,2022020588,Edmonton Oilers,1,Winnipeg Jets,2,20222023,Final,32,17
+692,2023-01-01,2022020590,New Jersey Devils,4,Carolina Hurricanes,5,20222023,Final,31,49
+693,2023-01-01,2022020591,Florida Panthers,3,New York Rangers,5,20222023,Final,35,28
+694,2023-01-02,2022020593,Chicago Blackhawks,2,San Jose Sharks,5,20222023,Final,22,28
+695,2023-01-02,2022020592,Ottawa Senators,3,Buffalo Sabres,1,20222023,Final,33,34
+696,2023-01-02,2022020594,Seattle Kraken,4,New York Islanders,1,20222023,Final,35,19
+697,2023-01-02,2022020595,Boston Bruins,2,Pittsburgh Penguins,1,20222023,Final,29,27
+698,2023-01-03,2022020596,Colorado Avalanche,2,Vegas Golden Knights,3,20222023,Final,29,28
+699,2023-01-03,2022020597,Anaheim Ducks,1,Philadelphia Flyers,4,20222023,Final,29,33
+700,2023-01-04,2022020598,Florida Panthers,5,Arizona Coyotes,3,20222023,Final,37,36
+701,2023-01-04,2022020599,Washington Capitals,4,Buffalo Sabres,5,20222023,Final,32,29
+702,2023-01-04,2022020600,New York Rangers,5,Carolina Hurricanes,3,20222023,Final,31,23
+703,2023-01-04,2022020601,Ottawa Senators,4,Columbus Blue Jackets,0,20222023,Final,34,22
+704,2023-01-04,2022020602,Toronto Maple Leafs,5,St. Louis Blues,6,20222023,Final,28,36
+705,2023-01-04,2022020603,Winnipeg Jets,3,Calgary Flames,2,20222023,Final,25,35
+706,2023-01-04,2022020604,Nashville Predators,6,Montréal Canadiens,3,20222023,Final,34,27
+707,2023-01-04,2022020605,Chicago Blackhawks,1,Tampa Bay Lightning,4,20222023,Final,26,29
+708,2023-01-04,2022020606,Edmonton Oilers,2,Seattle Kraken,5,20222023,Final,32,24
+709,2023-01-04,2022020607,Vancouver Canucks,2,New York Islanders,6,20222023,Final,26,29
+710,2023-01-04,2022020608,Los Angeles Kings,3,Dallas Stars,2,20222023,Final,35,30
+711,2023-01-05,2022020609,Detroit Red Wings,1,New Jersey Devils,5,20222023,Final,33,27
+712,2023-01-05,2022020610,Minnesota Wild,5,Tampa Bay Lightning,1,20222023,Final,33,35
+713,2023-01-05,2022020611,Anaheim Ducks,2,Dallas Stars,0,20222023,Final,27,35
+714,2023-01-06,2022020612,Philadelphia Flyers,6,Arizona Coyotes,2,20222023,Final,34,23
+715,2023-01-06,2022020613,Montréal Canadiens,1,New York Rangers,4,20222023,Final,18,31
+716,2023-01-06,2022020614,Carolina Hurricanes,3,Nashville Predators,5,20222023,Final,67,25
+717,2023-01-06,2022020615,Toronto Maple Leafs,1,Seattle Kraken,5,20222023,Final,27,26
+718,2023-01-06,2022020616,New Jersey Devils,3,St. Louis Blues,5,20222023,Final,39,19
+719,2023-01-06,2022020617,Columbus Blue Jackets,2,Washington Capitals,6,20222023,Final,27,37
+720,2023-01-06,2022020618,Edmonton Oilers,4,New York Islanders,2,20222023,Final,38,22
+721,2023-01-06,2022020619,Vancouver Canucks,4,Colorado Avalanche,2,20222023,Final,43,32
+722,2023-01-06,2022020620,Vegas Golden Knights,5,Pittsburgh Penguins,2,20222023,Final,31,40
+723,2023-01-06,2022020621,Los Angeles Kings,2,Boston Bruins,5,20222023,Final,29,22
+724,2023-01-07,2022020622,Washington Capitals,2,Nashville Predators,3,20222023,Final,32,21
+725,2023-01-07,2022020623,Detroit Red Wings,2,Florida Panthers,3,20222023,Final,31,20
+726,2023-01-07,2022020624,Winnipeg Jets,4,Tampa Bay Lightning,2,20222023,Final,20,28
+727,2023-01-07,2022020625,Chicago Blackhawks,2,Arizona Coyotes,0,20222023,Final,32,22
+728,2023-01-07,2022020626,Calgary Flames,4,New York Islanders,1,20222023,Final,21,25
+729,2023-01-07,2022020627,Anaheim Ducks,5,San Jose Sharks,4,20222023,Final,29,41
+730,2023-01-07,2022020628,New Jersey Devils,4,New York Rangers,3,20222023,Final,43,34
+731,2023-01-07,2022020629,Columbus Blue Jackets,4,Carolina Hurricanes,3,20222023,Final,23,45
+732,2023-01-08,2022020630,Toronto Maple Leafs,4,Detroit Red Wings,1,20222023,Final,29,23
+733,2023-01-08,2022020631,Buffalo Sabres,6,Minnesota Wild,5,20222023,Final,37,44
+734,2023-01-08,2022020632,Ottawa Senators,4,Seattle Kraken,8,20222023,Final,23,24
+735,2023-01-08,2022020633,Montréal Canadiens,5,St. Louis Blues,4,20222023,Final,27,22
+736,2023-01-08,2022020635,Vegas Golden Knights,1,Los Angeles Kings,5,20222023,Final,20,23
+737,2023-01-08,2022020634,Edmonton Oilers,2,Colorado Avalanche,3,20222023,Final,30,46
+738,2023-01-08,2022020636,San Jose Sharks,2,Boston Bruins,4,20222023,Final,30,29
+739,2023-01-08,2022020638,Winnipeg Jets,7,Vancouver Canucks,4,20222023,Final,27,38
+740,2023-01-08,2022020637,Dallas Stars,5,Florida Panthers,1,20222023,Final,34,28
+741,2023-01-08,2022020639,Washington Capitals,1,Columbus Blue Jackets,0,20222023,Final,19,38
+742,2023-01-09,2022020641,Arizona Coyotes,1,Pittsburgh Penguins,4,20222023,Final,24,28
+743,2023-01-09,2022020640,Chicago Blackhawks,4,Calgary Flames,3,20222023,Final,25,47
+744,2023-01-09,2022020642,Minnesota Wild,0,St. Louis Blues,3,20222023,Final,35,24
+745,2023-01-09,2022020643,Philadelphia Flyers,2,Toronto Maple Leafs,6,20222023,Final,36,35
+746,2023-01-09,2022020644,Anaheim Ducks,1,Boston Bruins,7,20222023,Final,29,42
+747,2023-01-10,2022020990,Buffalo Sabres,0,Philadelphia Flyers,4,20222023,Final,28,38
+748,2023-01-10,2022020645,Ottawa Senators,0,Nashville Predators,3,20222023,Final,38,36
+749,2023-01-10,2022020646,Montréal Canadiens,0,Seattle Kraken,4,20222023,Final,21,41
+750,2023-01-10,2022020647,Los Angeles Kings,6,Edmonton Oilers,3,20222023,Final,38,31
+751,2023-01-11,2022020648,Tampa Bay Lightning,6,Columbus Blue Jackets,3,20222023,Final,46,24
+752,2023-01-11,2022020649,New York Rangers,4,Minnesota Wild,3,20222023,Final,46,35
+753,2023-01-11,2022020650,Carolina Hurricanes,3,New Jersey Devils,5,20222023,Final,28,23
+754,2023-01-11,2022020651,Buffalo Sabres,3,Seattle Kraken,4,20222023,Final,35,22
+755,2023-01-11,2022020652,Pittsburgh Penguins,5,Vancouver Canucks,4,20222023,Final,36,24
+756,2023-01-11,2022020654,Detroit Red Wings,7,Winnipeg Jets,5,20222023,Final,23,37
+757,2023-01-11,2022020653,New York Islanders,1,Dallas Stars,2,20222023,Final,31,29
+758,2023-01-11,2022020655,St. Louis Blues,4,Calgary Flames,3,20222023,Final,27,31
+759,2023-01-11,2022020657,Arizona Coyotes,2,San Jose Sharks,4,20222023,Final,29,33
+760,2023-01-11,2022020656,Colorado Avalanche,4,Florida Panthers,5,20222023,Final,31,38
+761,2023-01-12,2022020659,Philadelphia Flyers,5,Washington Capitals,3,20222023,Final,36,29
+762,2023-01-12,2022020658,Toronto Maple Leafs,2,Nashville Predators,1,20222023,Final,35,33
+763,2023-01-12,2022020660,Anaheim Ducks,2,Edmonton Oilers,6,20222023,Final,23,53
+764,2023-01-12,2022020661,Los Angeles Kings,4,San Jose Sharks,3,20222023,Final,37,30
+765,2023-01-13,2022020662,Columbus Blue Jackets,2,Carolina Hurricanes,6,20222023,Final,23,41
+766,2023-01-13,2022020663,New York Rangers,2,Dallas Stars,1,20222023,Final,31,25
+767,2023-01-13,2022020664,Montréal Canadiens,4,Nashville Predators,3,20222023,Final,35,42
+768,2023-01-13,2022020665,Boston Bruins,0,Seattle Kraken,3,20222023,Final,27,31
+769,2023-01-13,2022020666,Detroit Red Wings,4,Toronto Maple Leafs,1,20222023,Final,23,33
+770,2023-01-13,2022020667,Tampa Bay Lightning,5,Vancouver Canucks,4,20222023,Final,35,40
+771,2023-01-13,2022020668,Buffalo Sabres,2,Winnipeg Jets,4,20222023,Final,41,27
+772,2023-01-13,2022020669,New York Islanders,1,Minnesota Wild,3,20222023,Final,20,36
+773,2023-01-13,2022020670,St. Louis Blues,1,Calgary Flames,4,20222023,Final,26,40
+774,2023-01-13,2022020671,Chicago Blackhawks,3,Colorado Avalanche,2,20222023,Final,30,33
+775,2023-01-13,2022020672,Arizona Coyotes,3,Ottawa Senators,5,20222023,Final,29,47
+776,2023-01-13,2022020673,Vegas Golden Knights,4,Florida Panthers,2,20222023,Final,33,40
+777,2023-01-14,2022020674,Pittsburgh Penguins,1,Winnipeg Jets,4,20222023,Final,23,40
+778,2023-01-14,2022020675,Anaheim Ducks,2,New Jersey Devils,6,20222023,Final,33,39
+779,2023-01-14,2022020676,San Jose Sharks,1,Edmonton Oilers,7,20222023,Final,26,41
+780,2023-01-14,2022020677,Dallas Stars,5,Calgary Flames,6,20222023,Final,34,36
+781,2023-01-15,2022020680,Colorado Avalanche,7,Ottawa Senators,0,20222023,Final,33,29
+782,2023-01-15,2022020678,Detroit Red Wings,3,Columbus Blue Jackets,4,20222023,Final,28,25
+783,2023-01-15,2022020679,New York Islanders,2,Montréal Canadiens,1,20222023,Final,38,23
+784,2023-01-15,2022020681,Washington Capitals,1,Philadelphia Flyers,3,20222023,Final,40,25
+785,2023-01-15,2022020682,Carolina Hurricanes,2,Pittsburgh Penguins,1,20222023,Final,36,35
+786,2023-01-15,2022020683,Boston Bruins,4,Toronto Maple Leafs,3,20222023,Final,34,21
+787,2023-01-15,2022020684,Florida Panthers,4,Vancouver Canucks,3,20222023,Final,35,38
+788,2023-01-15,2022020685,Minnesota Wild,2,Arizona Coyotes,1,20222023,Final,27,28
+789,2023-01-15,2022020686,Nashville Predators,3,Buffalo Sabres,5,20222023,Final,41,33
+790,2023-01-15,2022020687,Chicago Blackhawks,5,Seattle Kraken,8,20222023,Final,27,30
+791,2023-01-15,2022020688,St. Louis Blues,2,Tampa Bay Lightning,4,20222023,Final,25,30
+792,2023-01-15,2022020689,Vegas Golden Knights,3,Edmonton Oilers,4,20222023,Final,30,37
+793,2023-01-15,2022020690,Los Angeles Kings,2,New Jersey Devils,5,20222023,Final,37,28
+794,2023-01-15,2022020691,New York Rangers,1,Montréal Canadiens,2,20222023,Final,39,31
+795,2023-01-15,2022020692,Carolina Hurricanes,3,Vancouver Canucks,4,20222023,Final,33,35
+796,2023-01-16,2022020693,Winnipeg Jets,2,Arizona Coyotes,1,20222023,Final,24,21
+797,2023-01-16,2022020694,Buffalo Sabres,1,Florida Panthers,4,20222023,Final,29,34
+798,2023-01-16,2022020695,Boston Bruins,6,Philadelphia Flyers,0,20222023,Final,29,29
+799,2023-01-16,2022020696,Colorado Avalanche,6,Detroit Red Wings,3,20222023,Final,27,29
+800,2023-01-16,2022020697,San Jose Sharks,3,New Jersey Devils,4,20222023,Final,34,43
+801,2023-01-16,2022020698,Seattle Kraken,1,Tampa Bay Lightning,4,20222023,Final,23,31
+802,2023-01-16,2022020699,Vegas Golden Knights,0,Dallas Stars,4,20222023,Final,27,36
+803,2023-01-17,2022020700,Pittsburgh Penguins,4,Anaheim Ducks,3,20222023,Final,45,29
+804,2023-01-17,2022020701,Columbus Blue Jackets,1,New York Rangers,3,20222023,Final,25,33
+805,2023-01-17,2022020702,New York Islanders,3,Washington Capitals,4,20222023,Final,30,35
+806,2023-01-17,2022020703,Nashville Predators,2,Calgary Flames,1,20222023,Final,29,39
+807,2023-01-17,2022020704,St. Louis Blues,2,Ottawa Senators,1,20222023,Final,20,33
+808,2023-01-18,2022020705,Philadelphia Flyers,5,Anaheim Ducks,2,20222023,Final,39,27
+809,2023-01-18,2022020706,Toronto Maple Leafs,5,Florida Panthers,4,20222023,Final,37,19
+810,2023-01-18,2022020707,Washington Capitals,2,Minnesota Wild,4,20222023,Final,36,22
+811,2023-01-18,2022020708,Montréal Canadiens,4,Winnipeg Jets,1,20222023,Final,28,26
+812,2023-01-18,2022020338,Nashville Predators,2,Columbus Blue Jackets,1,20222023,Final,28,40
+813,2023-01-18,2022020709,Chicago Blackhawks,4,Buffalo Sabres,3,20222023,Final,26,33
+814,2023-01-18,2022020710,Arizona Coyotes,4,Detroit Red Wings,3,20222023,Final,25,41
+815,2023-01-18,2022020711,Edmonton Oilers,5,Seattle Kraken,2,20222023,Final,34,31
+816,2023-01-19,2022020712,Ottawa Senators,5,Pittsburgh Penguins,4,20222023,Final,40,19
+817,2023-01-19,2022020713,New York Islanders,1,Boston Bruins,4,20222023,Final,26,24
+818,2023-01-19,2022020714,Calgary Flames,1,Colorado Avalanche,4,20222023,Final,35,31
+819,2023-01-19,2022020715,Vancouver Canucks,2,Tampa Bay Lightning,5,20222023,Final,39,25
+820,2023-01-19,2022020716,San Jose Sharks,5,Dallas Stars,3,20222023,Final,28,36
+821,2023-01-20,2022020717,Columbus Blue Jackets,3,Anaheim Ducks,5,20222023,Final,33,33
+822,2023-01-20,2022020718,New York Rangers,1,Boston Bruins,3,20222023,Final,32,27
+823,2023-01-20,2022020719,Philadelphia Flyers,1,Chicago Blackhawks,4,20222023,Final,38,29
+824,2023-01-20,2022020720,Montréal Canadiens,2,Florida Panthers,6,20222023,Final,25,40
+825,2023-01-20,2022020721,Carolina Hurricanes,5,Minnesota Wild,2,20222023,Final,29,31
+826,2023-01-20,2022020723,Toronto Maple Leafs,4,Winnipeg Jets,1,20222023,Final,27,38
+827,2023-01-20,2022020722,Buffalo Sabres,3,New York Islanders,2,20222023,Final,45,26
+828,2023-01-20,2022020724,St. Louis Blues,5,Nashville Predators,2,20222023,Final,33,26
+829,2023-01-20,2022020725,Edmonton Oilers,5,Tampa Bay Lightning,3,20222023,Final,34,31
+830,2023-01-20,2022020726,Arizona Coyotes,0,Washington Capitals,4,20222023,Final,26,33
+831,2023-01-20,2022020727,Vegas Golden Knights,2,Detroit Red Wings,3,20222023,Final,35,25
+832,2023-01-20,2022020728,Seattle Kraken,4,New Jersey Devils,3,20222023,Final,40,30
+833,2023-01-20,2022020729,Los Angeles Kings,0,Dallas Stars,4,20222023,Final,34,24
+834,2023-01-21,2022020730,Pittsburgh Penguins,4,Ottawa Senators,1,20222023,Final,44,45
+835,2023-01-21,2022020731,Vancouver Canucks,1,Colorado Avalanche,4,20222023,Final,29,29
+836,2023-01-21,2022020732,Buffalo Sabres,6,Anaheim Ducks,3,20222023,Final,39,37
+837,2023-01-21,2022020733,Calgary Flames,6,Tampa Bay Lightning,3,20222023,Final,41,24
+838,2023-01-21,2022020734,Florida Panthers,5,Minnesota Wild,3,20222023,Final,27,32
+839,2023-01-22,2022020735,Detroit Red Wings,1,Philadelphia Flyers,2,20222023,Final,31,25
+840,2023-01-22,2022020736,Columbus Blue Jackets,5,San Jose Sharks,3,20222023,Final,29,26
+841,2023-01-22,2022020737,Montréal Canadiens,3,Toronto Maple Leafs,2,20222023,Final,31,38
+842,2023-01-22,2022020738,Ottawa Senators,1,Winnipeg Jets,5,20222023,Final,26,30
+843,2023-01-22,2022020739,New York Islanders,2,Carolina Hurricanes,5,20222023,Final,31,26
+844,2023-01-22,2022020740,Dallas Stars,4,Arizona Coyotes,0,20222023,Final,39,33
+845,2023-01-22,2022020741,St. Louis Blues,3,Chicago Blackhawks,5,20222023,Final,32,18
+846,2023-01-22,2022020742,Nashville Predators,5,Los Angeles Kings,3,20222023,Final,28,34
+847,2023-01-22,2022020743,Seattle Kraken,1,Colorado Avalanche,2,20222023,Final,27,28
+848,2023-01-22,2022020744,Vancouver Canucks,2,Edmonton Oilers,4,20222023,Final,29,29
+849,2023-01-22,2022020745,Vegas Golden Knights,6,Washington Capitals,2,20222023,Final,27,22
+850,2023-01-22,2022020746,New Jersey Devils,2,Pittsburgh Penguins,1,20222023,Final,25,26
+851,2023-01-23,2022020747,Chicago Blackhawks,1,Los Angeles Kings,2,20222023,Final,19,27
+852,2023-01-23,2022020748,Boston Bruins,4,San Jose Sharks,0,20222023,Final,22,18
+853,2023-01-23,2022020749,Philadelphia Flyers,3,Winnipeg Jets,5,20222023,Final,31,30
+854,2023-01-23,2022020750,Arizona Coyotes,4,Vegas Golden Knights,1,20222023,Final,23,36
+855,2023-01-24,2022020751,New York Rangers,6,Florida Panthers,2,20222023,Final,26,35
+856,2023-01-24,2022020752,Toronto Maple Leafs,5,New York Islanders,2,20222023,Final,39,33
+857,2023-01-24,2022020753,Dallas Stars,2,Buffalo Sabres,3,20222023,Final,31,25
+858,2023-01-24,2022020754,Calgary Flames,4,Columbus Blue Jackets,3,20222023,Final,49,25
+859,2023-01-25,2022020755,Montréal Canadiens,2,Boston Bruins,4,20222023,Final,22,29
+860,2023-01-25,2022020756,Pittsburgh Penguins,7,Florida Panthers,6,20222023,Final,49,39
+861,2023-01-25,2022020757,Philadelphia Flyers,3,Los Angeles Kings,4,20222023,Final,31,38
+862,2023-01-25,2022020758,Tampa Bay Lightning,4,Minnesota Wild,2,20222023,Final,39,35
+863,2023-01-25,2022020760,Detroit Red Wings,3,San Jose Sharks,2,20222023,Final,35,30
+864,2023-01-25,2022020759,New Jersey Devils,3,Vegas Golden Knights,2,20222023,Final,36,30
+865,2023-01-25,2022020761,St. Louis Blues,3,Buffalo Sabres,5,20222023,Final,28,31
+866,2023-01-25,2022020762,Nashville Predators,2,Winnipeg Jets,1,20222023,Final,41,33
+867,2023-01-25,2022020763,Arizona Coyotes,2,Anaheim Ducks,5,20222023,Final,39,43
+868,2023-01-25,2022020764,Colorado Avalanche,3,Washington Capitals,2,20222023,Final,26,39
+869,2023-01-25,2022020765,Vancouver Canucks,5,Chicago Blackhawks,2,20222023,Final,48,14
+870,2023-01-26,2022020766,Ottawa Senators,2,New York Islanders,1,20222023,Final,38,36
+871,2023-01-26,2022020767,Toronto Maple Leafs,3,New York Rangers,2,20222023,Final,35,29
+872,2023-01-26,2022020768,Dallas Stars,2,Carolina Hurricanes,3,20222023,Final,21,24
+873,2023-01-26,2022020769,Edmonton Oilers,2,Columbus Blue Jackets,3,20222023,Final,36,27
+874,2023-01-26,2022020770,Seattle Kraken,6,Vancouver Canucks,1,20222023,Final,35,20
+875,2023-01-27,2022020771,Tampa Bay Lightning,3,Boston Bruins,2,20222023,Final,35,39
+876,2023-01-27,2022020772,Montréal Canadiens,3,Detroit Red Wings,4,20222023,Final,23,42
+877,2023-01-27,2022020773,Washington Capitals,3,Pittsburgh Penguins,2,20222023,Final,48,40
+878,2023-01-27,2022020774,Winnipeg Jets,2,Buffalo Sabres,3,20222023,Final,21,36
+879,2023-01-27,2022020775,Nashville Predators,6,New Jersey Devils,4,20222023,Final,41,39
+880,2023-01-27,2022020778,Minnesota Wild,3,Philadelphia Flyers,2,20222023,Final,23,30
+881,2023-01-27,2022020776,Colorado Avalanche,3,Anaheim Ducks,5,20222023,Final,44,32
+882,2023-01-27,2022020777,Calgary Flames,1,Chicago Blackhawks,5,20222023,Final,35,29
+883,2023-01-27,2022020779,Arizona Coyotes,5,St. Louis Blues,0,20222023,Final,26,33
+884,2023-01-28,2022020780,New York Islanders,2,Detroit Red Wings,0,20222023,Final,29,23
+885,2023-01-28,2022020781,Florida Panthers,3,Los Angeles Kings,4,20222023,Final,48,33
+886,2023-01-28,2022020782,Toronto Maple Leafs,2,Ottawa Senators,6,20222023,Final,33,34
+887,2023-01-28,2022020783,Carolina Hurricanes,5,San Jose Sharks,4,20222023,Final,36,30
+888,2023-01-28,2022020784,New York Rangers,4,Vegas Golden Knights,1,20222023,Final,40,34
+889,2023-01-28,2022020785,Dallas Stars,2,New Jersey Devils,3,20222023,Final,35,29
+890,2023-01-28,2022020786,Seattle Kraken,2,Calgary Flames,5,20222023,Final,30,38
+891,2023-01-28,2022020787,Vancouver Canucks,5,Columbus Blue Jackets,2,20222023,Final,34,26
+892,2023-01-28,2022020788,Colorado Avalanche,4,St. Louis Blues,2,20222023,Final,31,28
+893,2023-01-28,2022020789,Florida Panthers,4,Boston Bruins,3,20222023,Final,37,41
+894,2023-01-29,2022020792,Winnipeg Jets,0,Philadelphia Flyers,4,20222023,Final,40,33
+895,2023-01-29,2022020790,Tampa Bay Lightning,5,Los Angeles Kings,2,20222023,Final,25,28
+896,2023-01-29,2022020791,Ottawa Senators,5,Montréal Canadiens,0,20222023,Final,36,28
+897,2023-01-29,2022020793,Pittsburgh Penguins,4,San Jose Sharks,6,20222023,Final,41,32
+898,2023-01-29,2022020794,New York Islanders,2,Vegas Golden Knights,1,20222023,Final,38,46
+899,2023-01-29,2022020795,Minnesota Wild,3,Buffalo Sabres,2,20222023,Final,38,33
+900,2023-01-29,2022020798,Seattle Kraken,3,Columbus Blue Jackets,1,20222023,Final,31,25
+901,2023-01-29,2022020797,Edmonton Oilers,7,Chicago Blackhawks,3,20222023,Final,43,29
+902,2023-01-29,2022020796,Anaheim Ducks,2,Arizona Coyotes,1,20222023,Final,45,34
+903,2023-01-29,2022020799,Carolina Hurricanes,4,Boston Bruins,1,20222023,Final,36,25
+904,2023-01-29,2022020800,Toronto Maple Leafs,5,Washington Capitals,1,20222023,Final,27,24
+905,2023-01-31,2022020801,Winnipeg Jets,4,St. Louis Blues,2,20222023,Final,39,26
+906,2023-02-01,2022020802,Carolina Hurricanes,5,Los Angeles Kings,4,20222023,Final,30,21
+907,2023-02-01,2022020803,Montréal Canadiens,4,Ottawa Senators,5,20222023,Final,32,29
+908,2023-02-01,2022020804,Columbus Blue Jackets,3,Washington Capitals,4,20222023,Final,34,34
+909,2023-02-02,2022020805,Buffalo Sabres,1,Carolina Hurricanes,5,20222023,Final,30,34
+910,2023-02-02,2022020806,Toronto Maple Leafs,2,Boston Bruins,5,20222023,Final,35,29
+911,2023-02-04,2022040671,Team Central,6,Team Pacific,4,20222023,Final,0,0
+912,2023-02-04,2022040672,Team Atlantic,10,Team Metropolitan,6,20222023,Final,0,0
+913,2023-02-04,2022040673,Team Atlantic,7,Team Central,5,20222023,Final,0,0
+914,2023-02-07,2022020807,Philadelphia Flyers,1,New York Islanders,2,20222023,Final,26,30
+915,2023-02-07,2022020808,Florida Panthers,7,Tampa Bay Lightning,1,20222023,Final,49,33
+916,2023-02-07,2022020809,New York Rangers,5,Calgary Flames,4,20222023,Final,33,32
+917,2023-02-07,2022020810,New Jersey Devils,5,Vancouver Canucks,4,20222023,Final,34,30
+918,2023-02-07,2022020811,Dallas Stars,3,Anaheim Ducks,2,20222023,Final,44,36
+919,2023-02-07,2022020812,Arizona Coyotes,3,Minnesota Wild,2,20222023,Final,36,35
+920,2023-02-08,2022020813,Pittsburgh Penguins,2,Colorado Avalanche,1,20222023,Final,38,42
+921,2023-02-08,2022020814,Tampa Bay Lightning,3,San Jose Sharks,4,20222023,Final,37,22
+922,2023-02-08,2022020815,Detroit Red Wings,2,Edmonton Oilers,5,20222023,Final,32,27
+923,2023-02-08,2022020816,New York Islanders,4,Seattle Kraken,0,20222023,Final,28,32
+924,2023-02-08,2022020817,Nashville Predators,1,Vegas Golden Knights,5,20222023,Final,17,30
+925,2023-02-08,2022020818,Chicago Blackhawks,2,Anaheim Ducks,3,20222023,Final,29,26
+926,2023-02-09,2022020819,New York Rangers,4,Vancouver Canucks,3,20222023,Final,21,25
+927,2023-02-09,2022020820,Dallas Stars,4,Minnesota Wild,1,20222023,Final,37,39
+928,2023-02-10,2022020821,Tampa Bay Lightning,5,Colorado Avalanche,0,20222023,Final,32,30
+929,2023-02-10,2022020822,Philadelphia Flyers,2,Edmonton Oilers,1,20222023,Final,39,37
+930,2023-02-10,2022020823,Florida Panthers,4,San Jose Sharks,1,20222023,Final,42,34
+931,2023-02-10,2022020824,New Jersey Devils,3,Seattle Kraken,1,20222023,Final,27,34
+932,2023-02-10,2022020825,Detroit Red Wings,2,Calgary Flames,1,20222023,Final,17,36
+933,2023-02-10,2022020826,New York Islanders,5,Vancouver Canucks,6,20222023,Final,29,34
+934,2023-02-10,2022020827,Minnesota Wild,1,Vegas Golden Knights,5,20222023,Final,28,31
+935,2023-02-11,2022020828,New York Rangers,6,Seattle Kraken,3,20222023,Final,28,29
+936,2023-02-11,2022020829,Columbus Blue Jackets,0,Toronto Maple Leafs,3,20222023,Final,30,41
+937,2023-02-11,2022020830,Chicago Blackhawks,4,Arizona Coyotes,3,20222023,Final,44,26
+938,2023-02-11,2022020831,Anaheim Ducks,3,Pittsburgh Penguins,6,20222023,Final,31,59
+939,2023-02-11,2022020832,Detroit Red Wings,5,Vancouver Canucks,2,20222023,Final,25,34
+940,2023-02-11,2022020833,Buffalo Sabres,2,Calgary Flames,7,20222023,Final,23,40
+941,2023-02-11,2022020834,Ottawa Senators,3,Edmonton Oilers,6,20222023,Final,29,40
+942,2023-02-11,2022020835,Montréal Canadiens,4,New York Islanders,3,20222023,Final,31,30
+943,2023-02-11,2022020836,Philadelphia Flyers,1,Nashville Predators,2,20222023,Final,24,25
+944,2023-02-11,2022020837,Dallas Stars,1,Tampa Bay Lightning,3,20222023,Final,29,31
+945,2023-02-11,2022020838,Boston Bruins,1,Washington Capitals,2,20222023,Final,28,23
+946,2023-02-11,2022020839,Florida Panthers,3,Colorado Avalanche,5,20222023,Final,45,50
+947,2023-02-12,2022020840,Toronto Maple Leafs,3,Columbus Blue Jackets,4,20222023,Final,29,40
+948,2023-02-12,2022020841,Carolina Hurricanes,2,New York Rangers,6,20222023,Final,29,19
+949,2023-02-12,2022020842,St. Louis Blues,6,Arizona Coyotes,5,20222023,Final,37,28
+950,2023-02-12,2022020843,Minnesota Wild,3,New Jersey Devils,2,20222023,Final,27,31
+951,2023-02-12,2022020844,Winnipeg Jets,4,Chicago Blackhawks,1,20222023,Final,28,32
+952,2023-02-12,2022020845,Los Angeles Kings,6,Pittsburgh Penguins,0,20222023,Final,31,25
+953,2023-02-12,2022020846,Montréal Canadiens,6,Edmonton Oilers,2,20222023,Final,30,31
+954,2023-02-12,2022020848,Philadelphia Flyers,3,Seattle Kraken,4,20222023,Final,18,21
+955,2023-02-12,2022020847,Washington Capitals,1,San Jose Sharks,4,20222023,Final,21,33
+956,2023-02-12,2022020849,Vegas Golden Knights,7,Anaheim Ducks,2,20222023,Final,39,25
+957,2023-02-14,2022020850,Ottawa Senators,4,Calgary Flames,3,20222023,Final,25,37
+958,2023-02-14,2022020851,Nashville Predators,2,Arizona Coyotes,4,20222023,Final,31,19
+959,2023-02-14,2022020852,Minnesota Wild,1,Florida Panthers,2,20222023,Final,31,36
+960,2023-02-14,2022020853,Vancouver Canucks,1,Detroit Red Wings,6,20222023,Final,30,23
+961,2023-02-14,2022020854,Los Angeles Kings,5,Buffalo Sabres,2,20222023,Final,28,29
+962,2023-02-15,2022020855,Washington Capitals,2,Carolina Hurricanes,3,20222023,Final,36,30
+963,2023-02-15,2022020856,Montréal Canadiens,4,Chicago Blackhawks,0,20222023,Final,31,22
+964,2023-02-15,2022020857,Columbus Blue Jackets,2,New Jersey Devils,3,20222023,Final,33,32
+965,2023-02-15,2022020858,New York Islanders,2,Ottawa Senators,3,20222023,Final,49,37
+966,2023-02-15,2022020859,St. Louis Blues,6,Florida Panthers,2,20222023,Final,28,36
+967,2023-02-15,2022020860,Winnipeg Jets,3,Seattle Kraken,2,20222023,Final,43,30
+968,2023-02-15,2022020861,Dallas Stars,2,Boston Bruins,3,20222023,Final,31,37
+969,2023-02-15,2022020862,Colorado Avalanche,3,Tampa Bay Lightning,4,20222023,Final,48,37
+970,2023-02-15,2022020863,San Jose Sharks,1,Pittsburgh Penguins,3,20222023,Final,39,28
+971,2023-02-16,2022020864,Toronto Maple Leafs,5,Chicago Blackhawks,2,20222023,Final,42,29
+972,2023-02-16,2022020865,Arizona Coyotes,1,Tampa Bay Lightning,0,20222023,Final,29,50
+973,2023-02-16,2022020867,Edmonton Oilers,4,Detroit Red Wings,5,20222023,Final,49,26
+974,2023-02-16,2022020866,Minnesota Wild,2,Colorado Avalanche,3,20222023,Final,43,19
+975,2023-02-16,2022020868,Anaheim Ducks,3,Buffalo Sabres,7,20222023,Final,22,44
+976,2023-02-16,2022020869,Vancouver Canucks,4,New York Rangers,6,20222023,Final,29,28
+977,2023-02-17,2022020870,Washington Capitals,3,Florida Panthers,6,20222023,Final,32,36
+978,2023-02-17,2022020871,Carolina Hurricanes,6,Montréal Canadiens,2,20222023,Final,41,22
+979,2023-02-17,2022020872,Columbus Blue Jackets,3,Winnipeg Jets,1,20222023,Final,24,38
+980,2023-02-17,2022020873,Nashville Predators,0,Boston Bruins,5,20222023,Final,28,30
+981,2023-02-17,2022020875,Calgary Flames,2,Detroit Red Wings,5,20222023,Final,35,24
+982,2023-02-17,2022020874,St. Louis Blues,4,New Jersey Devils,2,20222023,Final,35,36
+983,2023-02-17,2022020876,Seattle Kraken,6,Philadelphia Flyers,2,20222023,Final,30,19
+984,2023-02-17,2022020877,Vegas Golden Knights,2,San Jose Sharks,1,20222023,Final,38,26
+985,2023-02-18,2022020878,Ottawa Senators,3,Chicago Blackhawks,4,20222023,Final,31,32
+986,2023-02-18,2022020879,New York Islanders,5,Pittsburgh Penguins,4,20222023,Final,28,44
+987,2023-02-18,2022020880,Minnesota Wild,2,Dallas Stars,1,20222023,Final,36,34
+988,2023-02-18,2022020882,Anaheim Ducks,3,Los Angeles Kings,6,20222023,Final,27,41
+989,2023-02-18,2022020881,Edmonton Oilers,4,New York Rangers,5,20222023,Final,34,42
+990,2023-02-18,2022020883,St. Louis Blues,1,Colorado Avalanche,4,20222023,Final,20,33
+991,2023-02-18,2022020884,Nashville Predators,7,Florida Panthers,3,20222023,Final,26,33
+992,2023-02-18,2022020885,Boston Bruins,6,New York Islanders,2,20222023,Final,27,28
+993,2023-02-18,2022020886,Pittsburgh Penguins,2,New Jersey Devils,5,20222023,Final,31,43
+994,2023-02-18,2022020887,Dallas Stars,1,Columbus Blue Jackets,4,20222023,Final,29,37
+995,2023-02-19,2022020888,Toronto Maple Leafs,5,Montréal Canadiens,1,20222023,Final,41,30
+996,2023-02-19,2022020889,Carolina Hurricanes,4,Washington Capitals,1,20222023,Final,35,25
+997,2023-02-19,2022020891,Vancouver Canucks,6,Philadelphia Flyers,2,20222023,Final,23,37
+998,2023-02-19,2022020890,Calgary Flames,3,New York Rangers,2,20222023,Final,32,20
+999,2023-02-19,2022020892,Los Angeles Kings,6,Arizona Coyotes,5,20222023,Final,39,33
+1000,2023-02-19,2022020893,San Jose Sharks,2,Buffalo Sabres,4,20222023,Final,35,31
+1001,2023-02-19,2022020894,Seattle Kraken,4,Detroit Red Wings,2,20222023,Final,26,23
+1002,2023-02-19,2022020895,Vegas Golden Knights,5,Tampa Bay Lightning,4,20222023,Final,26,24
+1003,2023-02-19,2022020896,Minnesota Wild,4,Nashville Predators,3,20222023,Final,35,26
+1004,2023-02-19,2022020897,Ottawa Senators,7,St. Louis Blues,2,20222023,Final,34,32
+1005,2023-02-19,2022020898,Colorado Avalanche,6,Edmonton Oilers,5,20222023,Final,42,40
+1006,2023-02-19,2022020899,Chicago Blackhawks,5,Toronto Maple Leafs,3,20222023,Final,28,35
+1007,2023-02-20,2022020900,New Jersey Devils,4,Winnipeg Jets,2,20222023,Final,29,25
+1008,2023-02-20,2022020901,Arizona Coyotes,3,Columbus Blue Jackets,2,20222023,Final,25,36
+1009,2023-02-20,2022020902,Florida Panthers,4,Anaheim Ducks,3,20222023,Final,55,32
+1010,2023-02-20,2022020903,Boston Bruins,3,Ottawa Senators,1,20222023,Final,32,31
+1011,2023-02-20,2022020905,San Jose Sharks,4,Seattle Kraken,0,20222023,Final,24,26
+1012,2023-02-20,2022020904,Calgary Flames,3,Philadelphia Flyers,4,20222023,Final,35,22
+1013,2023-02-21,2022020906,Pittsburgh Penguins,2,New York Islanders,4,20222023,Final,46,32
+1014,2023-02-21,2022020907,New York Rangers,1,Winnipeg Jets,4,20222023,Final,51,21
+1015,2023-02-22,2022020908,Tampa Bay Lightning,6,Anaheim Ducks,1,20222023,Final,44,25
+1016,2023-02-22,2022020909,Washington Capitals,1,Detroit Red Wings,3,20222023,Final,27,25
+1017,2023-02-22,2022020910,New Jersey Devils,2,Montréal Canadiens,5,20222023,Final,40,18
+1018,2023-02-22,2022020911,Carolina Hurricanes,4,St. Louis Blues,1,20222023,Final,36,36
+1019,2023-02-22,2022020912,Buffalo Sabres,3,Toronto Maple Leafs,6,20222023,Final,32,29
+1020,2023-02-22,2022020913,Minnesota Wild,2,Los Angeles Kings,1,20222023,Final,20,34
+1021,2023-02-22,2022020914,Nashville Predators,5,Vancouver Canucks,4,20222023,Final,29,41
+1022,2023-02-22,2022020915,Chicago Blackhawks,3,Vegas Golden Knights,2,20222023,Final,42,37
+1023,2023-02-22,2022020916,Edmonton Oilers,4,Philadelphia Flyers,2,20222023,Final,27,26
+1024,2023-02-23,2022020917,New York Islanders,2,Winnipeg Jets,1,20222023,Final,22,26
+1025,2023-02-23,2022020919,Arizona Coyotes,3,Calgary Flames,6,20222023,Final,15,51
+1026,2023-02-23,2022020918,Dallas Stars,3,Chicago Blackhawks,4,20222023,Final,32,23
+1027,2023-02-24,2022020920,Washington Capitals,2,Anaheim Ducks,4,20222023,Final,43,21
+1028,2023-02-24,2022020921,Tampa Bay Lightning,5,Buffalo Sabres,6,20222023,Final,41,23
+1029,2023-02-24,2022020922,Pittsburgh Penguins,2,Edmonton Oilers,7,20222023,Final,24,44
+1030,2023-02-24,2022020923,New Jersey Devils,4,Los Angeles Kings,3,20222023,Final,32,22
+1031,2023-02-24,2022020924,Columbus Blue Jackets,0,Minnesota Wild,2,20222023,Final,30,25
+1032,2023-02-24,2022020925,Detroit Red Wings,4,New York Rangers,1,20222023,Final,23,31
+1033,2023-02-24,2022020926,St. Louis Blues,2,Vancouver Canucks,3,20222023,Final,22,41
+1034,2023-02-24,2022020928,Vegas Golden Knights,4,Calgary Flames,3,20222023,Final,29,28
+1035,2023-02-24,2022020927,Seattle Kraken,5,Boston Bruins,6,20222023,Final,41,33
+1036,2023-02-24,2022020929,San Jose Sharks,2,Nashville Predators,6,20222023,Final,24,31
+1037,2023-02-25,2022020930,Florida Panthers,1,Buffalo Sabres,3,20222023,Final,50,33
+1038,2023-02-25,2022020931,Toronto Maple Leafs,2,Minnesota Wild,1,20222023,Final,24,25
+1039,2023-02-25,2022020932,Philadelphia Flyers,2,Montréal Canadiens,5,20222023,Final,26,31
+1040,2023-02-25,2022020933,Carolina Hurricanes,4,Ottawa Senators,0,20222023,Final,30,32
+1041,2023-02-25,2022020934,New York Islanders,2,Los Angeles Kings,3,20222023,Final,18,29
+1042,2023-02-25,2022020935,Winnipeg Jets,1,Colorado Avalanche,5,20222023,Final,27,36
+1043,2023-02-25,2022020936,Columbus Blue Jackets,6,Edmonton Oilers,5,20222023,Final,26,47
+1044,2023-02-25,2022020937,Washington Capitals,6,New York Rangers,3,20222023,Final,27,26
+1045,2023-02-25,2022020943,St. Louis Blues,2,Pittsburgh Penguins,3,20222023,Final,27,48
+1046,2023-02-26,2022020939,Vancouver Canucks,1,Boston Bruins,3,20222023,Final,27,35
+1047,2023-02-26,2022020938,Carolina Hurricanes,2,Anaheim Ducks,3,20222023,Final,53,16
+1048,2023-02-26,2022020940,Montréal Canadiens,2,Ottawa Senators,5,20222023,Final,32,22
+1049,2023-02-26,2022020941,New Jersey Devils,7,Philadelphia Flyers,0,20222023,Final,36,23
+1050,2023-02-26,2022020942,Detroit Red Wings,0,Tampa Bay Lightning,3,20222023,Final,45,18
+1051,2023-02-26,2022020945,Vegas Golden Knights,2,Dallas Stars,3,20222023,Final,45,45
+1052,2023-02-26,2022020946,San Jose Sharks,3,Chicago Blackhawks,4,20222023,Final,51,36
+1053,2023-02-26,2022020944,Colorado Avalanche,4,Calgary Flames,1,20222023,Final,22,29
+1054,2023-02-26,2022020947,Buffalo Sabres,7,Washington Capitals,4,20222023,Final,37,30
+1055,2023-02-26,2022020948,Minnesota Wild,3,Columbus Blue Jackets,2,20222023,Final,44,24
+1056,2023-02-26,2022020949,Winnipeg Jets,0,New York Islanders,4,20222023,Final,23,24
+1057,2023-02-26,2022020950,New York Rangers,5,Los Angeles Kings,2,20222023,Final,21,28
+1058,2023-02-26,2022020951,Pittsburgh Penguins,7,Tampa Bay Lightning,3,20222023,Final,36,29
+1059,2023-02-27,2022020953,Seattle Kraken,1,Toronto Maple Leafs,5,20222023,Final,27,33
+1060,2023-02-27,2022020952,Arizona Coyotes,2,Nashville Predators,6,20222023,Final,27,34
+1061,2023-02-28,2022020534,Ottawa Senators,6,Detroit Red Wings,2,20222023,Final,42,24
+1062,2023-02-28,2022020954,Edmonton Oilers,2,Boston Bruins,3,20222023,Final,24,28
+1063,2023-02-28,2022020955,Dallas Stars,4,Vancouver Canucks,5,20222023,Final,38,21
+1064,2023-02-28,2022020956,Colorado Avalanche,3,Vegas Golden Knights,0,20222023,Final,34,31
+1065,2023-02-28,2022020957,Anaheim Ducks,4,Chicago Blackhawks,2,20222023,Final,33,26
+1066,2023-03-01,2022020959,Ottawa Senators,6,Detroit Red Wings,1,20222023,Final,27,17
+1067,2023-03-01,2022020960,Tampa Bay Lightning,1,Florida Panthers,4,20222023,Final,29,41
+1068,2023-03-01,2022020958,Buffalo Sabres,3,Columbus Blue Jackets,5,20222023,Final,41,36
+1069,2023-03-01,2022020961,Winnipeg Jets,5,Los Angeles Kings,6,20222023,Final,34,38
+1070,2023-03-01,2022020962,Minnesota Wild,2,New York Islanders,1,20222023,Final,34,42
+1071,2023-03-01,2022020963,Nashville Predators,1,Pittsburgh Penguins,3,20222023,Final,25,34
+1072,2023-03-01,2022020964,St. Louis Blues,3,Seattle Kraken,5,20222023,Final,25,26
+1073,2023-03-01,2022020965,Calgary Flames,3,Boston Bruins,4,20222023,Final,57,20
+1074,2023-03-01,2022020966,Arizona Coyotes,4,Chicago Blackhawks,1,20222023,Final,33,24
+1075,2023-03-01,2022020967,San Jose Sharks,1,Montréal Canadiens,3,20222023,Final,39,32
+1076,2023-03-02,2022020968,Philadelphia Flyers,2,New York Rangers,3,20222023,Final,28,25
+1077,2023-03-02,2022020969,Edmonton Oilers,5,Toronto Maple Leafs,2,20222023,Final,32,28
+1078,2023-03-02,2022020970,Dallas Stars,4,Arizona Coyotes,2,20222023,Final,41,20
+1079,2023-03-02,2022020971,Colorado Avalanche,5,New Jersey Devils,7,20222023,Final,31,29
+1080,2023-03-02,2022020972,Vegas Golden Knights,3,Carolina Hurricanes,2,20222023,Final,20,26
+1081,2023-03-02,2022020973,Anaheim Ducks,2,Washington Capitals,3,20222023,Final,23,39
+1082,2023-03-03,2022020974,Boston Bruins,7,Buffalo Sabres,1,20222023,Final,42,27
+1083,2023-03-03,2022020975,Florida Panthers,1,Nashville Predators,2,20222023,Final,31,23
+1084,2023-03-03,2022020976,New York Rangers,3,Ottawa Senators,5,20222023,Final,32,34
+1085,2023-03-03,2022020977,Tampa Bay Lightning,4,Pittsburgh Penguins,5,20222023,Final,31,32
+1086,2023-03-03,2022020978,Detroit Red Wings,4,Seattle Kraken,5,20222023,Final,29,37
+1087,2023-03-03,2022020979,Chicago Blackhawks,2,Dallas Stars,5,20222023,Final,21,36
+1088,2023-03-03,2022020980,Calgary Flames,1,Toronto Maple Leafs,2,20222023,Final,26,34
+1089,2023-03-03,2022020981,Vancouver Canucks,1,Minnesota Wild,2,20222023,Final,22,36
+1090,2023-03-03,2022020982,Los Angeles Kings,3,Montréal Canadiens,2,20222023,Final,33,21
+1091,2023-03-03,2022020983,San Jose Sharks,3,St. Louis Blues,6,20222023,Final,25,23
+1092,2023-03-04,2022020984,Columbus Blue Jackets,2,Seattle Kraken,4,20222023,Final,23,35
+1093,2023-03-04,2022020985,Edmonton Oilers,6,Winnipeg Jets,3,20222023,Final,33,28
+1094,2023-03-04,2022020986,Arizona Coyotes,1,Carolina Hurricanes,6,20222023,Final,18,42
+1095,2023-03-04,2022020987,Anaheim Ducks,3,Montréal Canadiens,2,20222023,Final,33,28
+1096,2023-03-04,2022020988,Vegas Golden Knights,4,New Jersey Devils,3,20222023,Final,31,54
+1097,2023-03-04,2022020536,Buffalo Sabres,5,Tampa Bay Lightning,3,20222023,Final,34,36
+1098,2023-03-04,2022020989,New York Islanders,4,Detroit Red Wings,1,20222023,Final,36,23
+1099,2023-03-04,2022020991,Boston Bruins,4,New York Rangers,2,20222023,Final,24,26
+1100,2023-03-04,2022020997,Dallas Stars,7,Colorado Avalanche,3,20222023,Final,29,35
+1101,2023-03-04,2022020993,San Jose Sharks,3,Washington Capitals,8,20222023,Final,41,30
+1102,2023-03-04,2022020992,Florida Panthers,4,Pittsburgh Penguins,1,20222023,Final,42,32
+1103,2023-03-05,2022020996,Vancouver Canucks,4,Toronto Maple Leafs,1,20222023,Final,24,37
+1104,2023-03-05,2022020995,Winnipeg Jets,7,Edmonton Oilers,5,20222023,Final,39,35
+1105,2023-03-05,2022020994,Ottawa Senators,5,Columbus Blue Jackets,2,20222023,Final,39,21
+1106,2023-03-05,2022020998,Chicago Blackhawks,1,Nashville Predators,3,20222023,Final,28,25
+1107,2023-03-05,2022020999,Calgary Flames,0,Minnesota Wild,3,20222023,Final,31,33
+1108,2023-03-05,2022021000,Los Angeles Kings,4,St. Louis Blues,2,20222023,Final,38,26
+1109,2023-03-05,2022021001,Carolina Hurricanes,6,Tampa Bay Lightning,0,20222023,Final,38,14
+1110,2023-03-05,2022021003,Vegas Golden Knights,4,Montréal Canadiens,3,20222023,Final,28,28
+1111,2023-03-05,2022021002,Philadelphia Flyers,3,Detroit Red Wings,1,20222023,Final,37,26
+1112,2023-03-06,2022021004,Arizona Coyotes,4,New Jersey Devils,5,20222023,Final,29,40
+1113,2023-03-06,2022021005,Colorado Avalanche,2,Seattle Kraken,3,20222023,Final,23,35
+1114,2023-03-07,2022021007,Winnipeg Jets,2,San Jose Sharks,3,20222023,Final,38,24
+1115,2023-03-07,2022021006,Buffalo Sabres,2,Edmonton Oilers,3,20222023,Final,39,37
+1116,2023-03-07,2022021008,Dallas Stars,4,Calgary Flames,5,20222023,Final,33,38
+1117,2023-03-07,2022021009,Chicago Blackhawks,5,Ottawa Senators,0,20222023,Final,21,35
+1118,2023-03-07,2022021010,Vancouver Canucks,4,Nashville Predators,3,20222023,Final,32,34
+1119,2023-03-07,2022021011,Los Angeles Kings,4,Washington Capitals,2,20222023,Final,41,22
+1120,2023-03-08,2022021012,Montréal Canadiens,3,Carolina Hurricanes,4,20222023,Final,30,44
+1121,2023-03-08,2022021013,Pittsburgh Penguins,5,Columbus Blue Jackets,4,20222023,Final,47,27
+1122,2023-03-08,2022021014,Tampa Bay Lightning,5,Philadelphia Flyers,2,20222023,Final,39,35
+1123,2023-03-08,2022021015,New Jersey Devils,3,Toronto Maple Leafs,4,20222023,Final,33,25
+1124,2023-03-08,2022021016,Florida Panthers,2,Vegas Golden Knights,1,20222023,Final,34,23
+1125,2023-03-08,2022021017,New York Islanders,3,Buffalo Sabres,2,20222023,Final,39,24
+1126,2023-03-08,2022021018,Minnesota Wild,0,Calgary Flames,1,20222023,Final,42,30
+1127,2023-03-08,2022021019,Colorado Avalanche,6,San Jose Sharks,0,20222023,Final,43,13
+1128,2023-03-08,2022021020,Arizona Coyotes,6,St. Louis Blues,2,20222023,Final,27,42
+1129,2023-03-08,2022021021,Seattle Kraken,5,Anaheim Ducks,2,20222023,Final,31,22
+1130,2023-03-09,2022021023,Winnipeg Jets,2,Minnesota Wild,4,20222023,Final,48,23
+1131,2023-03-09,2022021022,Detroit Red Wings,4,Chicago Blackhawks,3,20222023,Final,41,20
+1132,2023-03-09,2022021024,Vancouver Canucks,3,Anaheim Ducks,2,20222023,Final,34,22
+1133,2023-03-10,2022021025,Buffalo Sabres,4,Dallas Stars,10,20222023,Final,29,49
+1134,2023-03-10,2022021027,Pittsburgh Penguins,3,New York Islanders,4,20222023,Final,36,28
+1135,2023-03-10,2022021028,Montréal Canadiens,3,New York Rangers,4,20222023,Final,27,35
+1136,2023-03-10,2022021029,Washington Capitals,2,New Jersey Devils,3,20222023,Final,24,43
+1137,2023-03-10,2022021030,Carolina Hurricanes,1,Philadelphia Flyers,0,20222023,Final,29,19
+1138,2023-03-10,2022021031,Tampa Bay Lightning,3,Vegas Golden Knights,4,20222023,Final,37,21
+1139,2023-03-10,2022021026,Boston Bruins,2,Edmonton Oilers,3,20222023,Final,28,22
+1140,2023-03-10,2022021032,St. Louis Blues,4,San Jose Sharks,2,20222023,Final,30,34
+1141,2023-03-10,2022021033,Colorado Avalanche,2,Los Angeles Kings,5,20222023,Final,30,31
+1142,2023-03-10,2022021034,Arizona Coyotes,4,Nashville Predators,1,20222023,Final,43,40
+1143,2023-03-10,2022021035,Seattle Kraken,4,Ottawa Senators,5,20222023,Final,33,31
+1144,2023-03-11,2022021036,Florida Panthers,4,Chicago Blackhawks,3,20222023,Final,43,24
+1145,2023-03-11,2022021037,Calgary Flames,1,Anaheim Ducks,3,20222023,Final,37,18
+1146,2023-03-11,2022021038,Boston Bruins,3,Detroit Red Wings,2,20222023,Final,38,31
+1147,2023-03-11,2022021039,Pittsburgh Penguins,5,Philadelphia Flyers,1,20222023,Final,32,32
+1148,2023-03-11,2022021040,Buffalo Sabres,1,New York Rangers,2,20222023,Final,33,26
+1149,2023-03-11,2022021041,Colorado Avalanche,3,Arizona Coyotes,2,20222023,Final,44,20
+1150,2023-03-12,2022021042,Tampa Bay Lightning,3,Chicago Blackhawks,1,20222023,Final,37,23
+1151,2023-03-12,2022021043,Toronto Maple Leafs,7,Edmonton Oilers,4,20222023,Final,38,26
+1152,2023-03-12,2022021044,Montréal Canadiens,1,New Jersey Devils,3,20222023,Final,24,37
+1153,2023-03-12,2022021045,Columbus Blue Jackets,2,St. Louis Blues,5,20222023,Final,39,24
+1154,2023-03-12,2022021046,Carolina Hurricanes,0,Vegas Golden Knights,4,20222023,Final,33,24
+1155,2023-03-12,2022021047,Florida Panthers,4,Winnipeg Jets,5,20222023,Final,48,27
+1156,2023-03-12,2022021048,New York Islanders,1,Washington Capitals,5,20222023,Final,19,27
+1157,2023-03-12,2022021049,Seattle Kraken,3,Dallas Stars,4,20222023,Final,31,25
+1158,2023-03-12,2022021050,Vancouver Canucks,5,Ottawa Senators,2,20222023,Final,30,20
+1159,2023-03-12,2022021051,San Jose Sharks,2,Minnesota Wild,5,20222023,Final,37,29
+1160,2023-03-12,2022021052,Los Angeles Kings,1,Nashville Predators,2,20222023,Final,30,32
+1161,2023-03-12,2022021053,Detroit Red Wings,5,Boston Bruins,3,20222023,Final,26,33
+1162,2023-03-12,2022021054,Pittsburgh Penguins,3,New York Rangers,2,20222023,Final,35,29
+1163,2023-03-12,2022021056,St. Louis Blues,3,Vegas Golden Knights,5,20222023,Final,33,31
+1164,2023-03-12,2022021055,New Jersey Devils,3,Carolina Hurricanes,0,20222023,Final,23,32
+1165,2023-03-12,2022021057,Tampa Bay Lightning,2,Winnipeg Jets,3,20222023,Final,35,22
+1166,2023-03-13,2022021059,Calgary Flames,5,Ottawa Senators,1,20222023,Final,39,31
+1167,2023-03-13,2022021058,Arizona Coyotes,5,Minnesota Wild,4,20222023,Final,23,34
+1168,2023-03-13,2022021060,Anaheim Ducks,4,Nashville Predators,5,20222023,Final,37,36
+1169,2023-03-13,2022021061,Toronto Maple Leafs,3,Buffalo Sabres,4,20222023,Final,28,29
+1170,2023-03-13,2022021062,Montréal Canadiens,4,Colorado Avalanche,8,20222023,Final,19,33
+1171,2023-03-14,2022021063,Seattle Kraken,2,Dallas Stars,5,20222023,Final,28,32
+1172,2023-03-14,2022021064,Pittsburgh Penguins,4,Montréal Canadiens,6,20222023,Final,43,22
+1173,2023-03-14,2022021065,New Jersey Devils,1,Tampa Bay Lightning,4,20222023,Final,23,30
+1174,2023-03-14,2022021066,Philadelphia Flyers,3,Vegas Golden Knights,5,20222023,Final,30,33
+1175,2023-03-14,2022021067,New York Rangers,5,Washington Capitals,3,20222023,Final,36,31
+1176,2023-03-14,2022021068,Carolina Hurricanes,5,Winnipeg Jets,3,20222023,Final,25,24
+1177,2023-03-15,2022021069,Nashville Predators,2,Detroit Red Wings,1,20222023,Final,16,29
+1178,2023-03-15,2022021070,Chicago Blackhawks,6,Boston Bruins,3,20222023,Final,29,42
+1179,2023-03-15,2022021071,Edmonton Oilers,6,Ottawa Senators,3,20222023,Final,33,32
+1180,2023-03-15,2022021072,Arizona Coyotes,4,Calgary Flames,3,20222023,Final,25,45
+1181,2023-03-15,2022021073,Vancouver Canucks,5,Dallas Stars,2,20222023,Final,19,27
+1182,2023-03-15,2022021074,San Jose Sharks,5,Columbus Blue Jackets,6,20222023,Final,32,48
+1183,2023-03-15,2022021075,Los Angeles Kings,5,New York Islanders,2,20222023,Final,37,28
+1184,2023-03-15,2022021076,Washington Capitals,5,Buffalo Sabres,4,20222023,Final,41,29
+1185,2023-03-15,2022021077,Toronto Maple Leafs,1,Colorado Avalanche,2,20222023,Final,19,31
+1186,2023-03-16,2022021078,St. Louis Blues,5,Minnesota Wild,8,20222023,Final,36,35
+1187,2023-03-16,2022021079,Anaheim Ducks,3,New York Islanders,6,20222023,Final,23,33
+1188,2023-03-16,2022021080,Ottawa Senators,4,Colorado Avalanche,5,20222023,Final,36,30
+1189,2023-03-16,2022021081,Florida Panthers,9,Montréal Canadiens,5,20222023,Final,42,30
+1190,2023-03-16,2022021082,New York Rangers,4,Pittsburgh Penguins,2,20222023,Final,35,32
+1191,2023-03-16,2022021083,New Jersey Devils,3,Tampa Bay Lightning,4,20222023,Final,38,27
+1192,2023-03-17,2022021084,Winnipeg Jets,0,Boston Bruins,3,20222023,Final,36,24
+1193,2023-03-17,2022021085,Nashville Predators,1,Chicago Blackhawks,2,20222023,Final,36,21
+1194,2023-03-17,2022021086,Edmonton Oilers,4,Dallas Stars,1,20222023,Final,30,26
+1195,2023-03-17,2022021087,Vegas Golden Knights,2,Calgary Flames,7,20222023,Final,19,30
+1196,2023-03-17,2022021088,Arizona Coyotes,3,Vancouver Canucks,2,20222023,Final,27,31
+1197,2023-03-17,2022021089,Los Angeles Kings,4,Columbus Blue Jackets,1,20222023,Final,36,30
+1198,2023-03-17,2022021090,San Jose Sharks,1,Seattle Kraken,2,20222023,Final,32,32
+1199,2023-03-17,2022021091,Philadelphia Flyers,5,Buffalo Sabres,2,20222023,Final,22,38
+1200,2023-03-17,2022021092,Toronto Maple Leafs,5,Carolina Hurricanes,2,20222023,Final,24,34
+1201,2023-03-17,2022021093,Washington Capitals,2,St. Louis Blues,5,20222023,Final,34,22
+1202,2023-03-18,2022021094,Anaheim Ducks,7,Columbus Blue Jackets,4,20222023,Final,38,42
+1203,2023-03-18,2022021095,Detroit Red Wings,1,Colorado Avalanche,5,20222023,Final,34,23
+1204,2023-03-18,2022021096,Minnesota Wild,2,Boston Bruins,5,20222023,Final,31,38
+1205,2023-03-18,2022021097,Nashville Predators,2,Winnipeg Jets,3,20222023,Final,20,34
+1206,2023-03-18,2022021098,Seattle Kraken,4,Edmonton Oilers,6,20222023,Final,37,23
+1207,2023-03-18,2022021099,Philadelphia Flyers,4,Carolina Hurricanes,5,20222023,Final,33,34
+1208,2023-03-18,2022021100,Florida Panthers,4,New Jersey Devils,2,20222023,Final,41,35
+1209,2023-03-18,2022021101,Tampa Bay Lightning,5,Montréal Canadiens,3,20222023,Final,41,21
+1210,2023-03-18,2022021102,Ottawa Senators,4,Toronto Maple Leafs,5,20222023,Final,61,38
+1211,2023-03-19,2022021103,New York Rangers,6,Pittsburgh Penguins,0,20222023,Final,24,33
+1212,2023-03-19,2022021105,Los Angeles Kings,2,Vancouver Canucks,3,20222023,Final,41,19
+1213,2023-03-19,2022021104,Calgary Flames,5,Dallas Stars,6,20222023,Final,38,26
+1214,2023-03-19,2022021106,Arizona Coyotes,4,Chicago Blackhawks,2,20222023,Final,21,34
+1215,2023-03-19,2022021107,San Jose Sharks,1,New York Islanders,4,20222023,Final,30,33
+1216,2023-03-19,2022021108,Buffalo Sabres,0,Boston Bruins,7,20222023,Final,26,25
+1217,2023-03-19,2022021109,Minnesota Wild,5,Washington Capitals,3,20222023,Final,40,36
+1218,2023-03-19,2022021110,Vegas Golden Knights,7,Columbus Blue Jackets,2,20222023,Final,41,37
+1219,2023-03-19,2022021113,St. Louis Blues,3,Winnipeg Jets,0,20222023,Final,17,34
+1220,2023-03-19,2022021111,New York Rangers,7,Nashville Predators,0,20222023,Final,34,22
+1221,2023-03-19,2022021112,Tampa Bay Lightning,2,New Jersey Devils,5,20222023,Final,24,39
+1222,2023-03-20,2022021114,Anaheim Ducks,1,Vancouver Canucks,2,20222023,Final,18,40
+1223,2023-03-20,2022021115,Pittsburgh Penguins,1,Ottawa Senators,2,20222023,Final,49,21
+1224,2023-03-20,2022021116,Detroit Red Wings,2,Florida Panthers,5,20222023,Final,22,25
+1225,2023-03-21,2022021117,Colorado Avalanche,5,Chicago Blackhawks,0,20222023,Final,32,27
+1226,2023-03-21,2022021118,Edmonton Oilers,5,San Jose Sharks,4,20222023,Final,52,32
+1227,2023-03-21,2022021119,Los Angeles Kings,8,Calgary Flames,2,20222023,Final,39,18
+1228,2023-03-21,2022021120,New York Rangers,2,Carolina Hurricanes,3,20222023,Final,31,39
+1229,2023-03-21,2022021121,Washington Capitals,6,Columbus Blue Jackets,7,20222023,Final,37,39
+1230,2023-03-21,2022021122,Philadelphia Flyers,6,Florida Panthers,3,20222023,Final,24,44
+1231,2023-03-21,2022021123,New Jersey Devils,1,Minnesota Wild,2,20222023,Final,48,29
+1232,2023-03-21,2022021124,Buffalo Sabres,3,Nashville Predators,7,20222023,Final,31,27
+1233,2023-03-21,2022021125,Boston Bruins,2,Ottawa Senators,1,20222023,Final,35,41
+1234,2023-03-21,2022021126,Montréal Canadiens,3,Tampa Bay Lightning,2,20222023,Final,20,33
+1235,2023-03-21,2022021127,New York Islanders,7,Toronto Maple Leafs,2,20222023,Final,29,27
+1236,2023-03-22,2022021128,Winnipeg Jets,2,Arizona Coyotes,1,20222023,Final,25,30
+1237,2023-03-22,2022021129,St. Louis Blues,2,Detroit Red Wings,3,20222023,Final,24,33
+1238,2023-03-22,2022021130,Dallas Stars,4,Seattle Kraken,5,20222023,Final,29,27
+1239,2023-03-22,2022021131,Anaheim Ducks,1,Calgary Flames,5,20222023,Final,20,43
+1240,2023-03-22,2022021132,Vancouver Canucks,3,Vegas Golden Knights,4,20222023,Final,34,27
+1241,2023-03-23,2022021133,Colorado Avalanche,2,Pittsburgh Penguins,5,20222023,Final,30,45
+1242,2023-03-23,2022021134,Edmonton Oilers,4,Arizona Coyotes,3,20222023,Final,31,17
+1243,2023-03-23,2022021136,Philadelphia Flyers,5,Minnesota Wild,4,20222023,Final,37,26
+1244,2023-03-23,2022021135,Washington Capitals,6,Chicago Blackhawks,1,20222023,Final,28,28
+1245,2023-03-23,2022021137,Boston Bruins,4,Montréal Canadiens,2,20222023,Final,21,31
+1246,2023-03-23,2022021138,Carolina Hurricanes,1,New York Rangers,2,20222023,Final,30,16
+1247,2023-03-23,2022021139,Ottawa Senators,7,Tampa Bay Lightning,2,20222023,Final,35,29
+1248,2023-03-23,2022021140,Florida Panthers,2,Toronto Maple Leafs,6,20222023,Final,35,27
+1249,2023-03-23,2022021141,Detroit Red Wings,3,St. Louis Blues,4,20222023,Final,28,22
+1250,2023-03-24,2022021142,Nashville Predators,2,Seattle Kraken,1,20222023,Final,27,29
+1251,2023-03-24,2022021144,Calgary Flames,2,Vegas Golden Knights,3,20222023,Final,44,32
+1252,2023-03-24,2022021143,Dallas Stars,3,Pittsburgh Penguins,2,20222023,Final,33,42
+1253,2023-03-24,2022021145,Vancouver Canucks,7,San Jose Sharks,2,20222023,Final,21,19
+1254,2023-03-24,2022021146,Anaheim Ducks,2,Winnipeg Jets,3,20222023,Final,20,33
+1255,2023-03-24,2022021147,Columbus Blue Jackets,5,New York Islanders,4,20222023,Final,27,38
+1256,2023-03-24,2022021148,Buffalo Sabres,5,New Jersey Devils,4,20222023,Final,26,31
+1257,2023-03-25,2022021149,Colorado Avalanche,3,Arizona Coyotes,1,20222023,Final,30,18
+1258,2023-03-25,2022021150,Philadelphia Flyers,3,Detroit Red Wings,0,20222023,Final,22,29
+1259,2023-03-25,2022021151,Boston Bruins,2,Tampa Bay Lightning,1,20222023,Final,34,27
+1260,2023-03-25,2022021152,Nashville Predators,2,Seattle Kraken,7,20222023,Final,16,39
+1261,2023-03-25,2022021154,Los Angeles Kings,4,Winnipeg Jets,1,20222023,Final,29,26
+1262,2023-03-25,2022021153,Calgary Flames,5,San Jose Sharks,3,20222023,Final,30,31
+1263,2023-03-25,2022021155,Minnesota Wild,3,Chicago Blackhawks,1,20222023,Final,25,23
+1264,2023-03-25,2022021156,Florida Panthers,3,New York Rangers,4,20222023,Final,34,42
+1265,2023-03-25,2022021157,New York Islanders,0,Buffalo Sabres,2,20222023,Final,26,35
+1266,2023-03-25,2022021161,Dallas Stars,1,Vancouver Canucks,3,20222023,Final,26,24
+1267,2023-03-25,2022021158,Montréal Canadiens,8,Columbus Blue Jackets,2,20222023,Final,32,23
+1268,2023-03-25,2022021159,New Jersey Devils,5,Ottawa Senators,3,20222023,Final,35,28
+1269,2023-03-25,2022021160,Carolina Hurricanes,5,Toronto Maple Leafs,3,20222023,Final,28,44
+1270,2023-03-26,2022021162,Pittsburgh Penguins,4,Washington Capitals,3,20222023,Final,40,34
+1271,2023-03-26,2022021163,Edmonton Oilers,3,Vegas Golden Knights,4,20222023,Final,30,34
+1272,2023-03-26,2022021164,Anaheim Ducks,3,St. Louis Blues,6,20222023,Final,25,36
+1273,2023-03-26,2022021165,Arizona Coyotes,3,Colorado Avalanche,4,20222023,Final,35,37
+1274,2023-03-26,2022021166,Carolina Hurricanes,3,Boston Bruins,4,20222023,Final,39,40
+1275,2023-03-26,2022021167,Nashville Predators,2,Toronto Maple Leafs,3,20222023,Final,25,34
+1276,2023-03-26,2022021168,Chicago Blackhawks,2,Vancouver Canucks,4,20222023,Final,31,31
+1277,2023-03-27,2022021169,Los Angeles Kings,7,St. Louis Blues,6,20222023,Final,31,22
+1278,2023-03-27,2022021170,Ottawa Senators,5,Florida Panthers,2,20222023,Final,27,34
+1279,2023-03-27,2022021171,Buffalo Sabres,3,Montréal Canadiens,4,20222023,Final,38,46
+1280,2023-03-27,2022021172,New York Islanders,5,New Jersey Devils,1,20222023,Final,36,31
+1281,2023-03-28,2022021173,Minnesota Wild,5,Seattle Kraken,1,20222023,Final,20,36
+1282,2023-03-28,2022021174,Anaheim Ducks,1,Colorado Avalanche,5,20222023,Final,30,44
+1283,2023-03-28,2022021175,Arizona Coyotes,4,Edmonton Oilers,5,20222023,Final,33,29
+1284,2023-03-28,2022021176,New York Rangers,6,Columbus Blue Jackets,2,20222023,Final,36,30
+1285,2023-03-28,2022021177,Philadelphia Flyers,3,Montréal Canadiens,2,20222023,Final,27,29
+1286,2023-03-28,2022021178,Boston Bruins,1,Nashville Predators,2,20222023,Final,36,23
+1287,2023-03-28,2022021179,Carolina Hurricanes,0,Tampa Bay Lightning,4,20222023,Final,31,21
+1288,2023-03-28,2022021180,Detroit Red Wings,7,Pittsburgh Penguins,4,20222023,Final,25,39
+1289,2023-03-29,2022021181,St. Louis Blues,6,Vancouver Canucks,5,20222023,Final,31,37
+1290,2023-03-29,2022021182,Chicago Blackhawks,1,Dallas Stars,4,20222023,Final,18,33
+1291,2023-03-29,2022021183,Calgary Flames,2,Los Angeles Kings,1,20222023,Final,32,33
+1292,2023-03-29,2022021184,Vegas Golden Knights,4,Edmonton Oilers,7,20222023,Final,22,39
+1293,2023-03-29,2022021185,San Jose Sharks,3,Winnipeg Jets,0,20222023,Final,30,41
+1294,2023-03-29,2022021186,Toronto Maple Leafs,2,Florida Panthers,3,20222023,Final,40,29
+1295,2023-03-29,2022021187,Washington Capitals,1,New York Islanders,2,20222023,Final,29,31
+1296,2023-03-30,2022021188,Colorado Avalanche,2,Minnesota Wild,4,20222023,Final,44,29
+1297,2023-03-30,2022021189,Boston Bruins,2,Columbus Blue Jackets,1,20222023,Final,31,26
+1298,2023-03-30,2022021190,Montréal Canadiens,2,Florida Panthers,5,20222023,Final,20,30
+1299,2023-03-30,2022021191,New Jersey Devils,2,New York Rangers,1,20222023,Final,31,25
+1300,2023-03-30,2022021192,Pittsburgh Penguins,2,Nashville Predators,0,20222023,Final,45,28
+1301,2023-03-30,2022021193,Ottawa Senators,5,Philadelphia Flyers,4,20222023,Final,46,11
+1302,2023-03-30,2022021194,Tampa Bay Lightning,5,Washington Capitals,1,20222023,Final,34,31
+1303,2023-03-30,2022021195,Detroit Red Wings,3,Carolina Hurricanes,2,20222023,Final,22,33
+1304,2023-03-31,2022021196,Chicago Blackhawks,3,St. Louis Blues,5,20222023,Final,33,29
+1305,2023-03-31,2022021197,Edmonton Oilers,2,Los Angeles Kings,0,20222023,Final,37,43
+1306,2023-03-31,2022021198,Seattle Kraken,4,Anaheim Ducks,1,20222023,Final,39,19
+1307,2023-03-31,2022021199,San Jose Sharks,4,Vegas Golden Knights,3,20222023,Final,25,26
+1308,2023-03-31,2022021200,Buffalo Sabres,3,New York Rangers,2,20222023,Final,34,33
+1309,2023-04-01,2022021201,Winnipeg Jets,6,Detroit Red Wings,2,20222023,Final,29,25
+1310,2023-04-01,2022021202,Vancouver Canucks,4,Calgary Flames,5,20222023,Final,20,41
+1311,2023-04-01,2022021203,Arizona Coyotes,2,Dallas Stars,5,20222023,Final,18,31
+1312,2023-04-01,2022021204,Nashville Predators,6,St. Louis Blues,1,20222023,Final,35,22
+1313,2023-04-01,2022021205,Pittsburgh Penguins,3,Boston Bruins,4,20222023,Final,24,35
+1314,2023-04-01,2022021206,Philadelphia Flyers,3,Buffalo Sabres,6,20222023,Final,42,29
+1315,2023-04-01,2022021207,Montréal Canadiens,0,Carolina Hurricanes,3,20222023,Final,14,50
+1316,2023-04-01,2022021208,Columbus Blue Jackets,0,Florida Panthers,7,20222023,Final,21,49
+1317,2023-04-01,2022021209,Tampa Bay Lightning,5,New York Islanders,0,20222023,Final,32,38
+1318,2023-04-01,2022021210,Ottawa Senators,0,Toronto Maple Leafs,3,20222023,Final,31,20
+1319,2023-04-02,2022021211,Chicago Blackhawks,3,New Jersey Devils,6,20222023,Final,17,40
+1320,2023-04-02,2022021212,Colorado Avalanche,5,Dallas Stars,2,20222023,Final,32,28
+1321,2023-04-02,2022021214,Seattle Kraken,1,Los Angeles Kings,3,20222023,Final,26,19
+1322,2023-04-02,2022021215,Vegas Golden Knights,4,Minnesota Wild,1,20222023,Final,43,30
+1323,2023-04-02,2022021216,Arizona Coyotes,2,San Jose Sharks,7,20222023,Final,31,31
+1324,2023-04-02,2022021213,Edmonton Oilers,6,Anaheim Ducks,0,20222023,Final,45,36
+1325,2023-04-02,2022021217,Washington Capitals,2,New York Rangers,5,20222023,Final,28,34
+1326,2023-04-02,2022021218,St. Louis Blues,3,Boston Bruins,4,20222023,Final,40,32
+1327,2023-04-02,2022021219,Carolina Hurricanes,2,New York Islanders,1,20222023,Final,35,22
+1328,2023-04-02,2022021220,Columbus Blue Jackets,4,Ottawa Senators,3,20222023,Final,22,27
+1329,2023-04-02,2022021221,Pittsburgh Penguins,4,Philadelphia Flyers,2,20222023,Final,31,33
+1330,2023-04-02,2022021223,Winnipeg Jets,6,New Jersey Devils,1,20222023,Final,27,32
+1331,2023-04-02,2022021222,Toronto Maple Leafs,2,Detroit Red Wings,5,20222023,Final,45,24
+1332,2023-04-03,2022021225,Vancouver Canucks,1,Los Angeles Kings,4,20222023,Final,25,25
+1333,2023-04-03,2022021224,Calgary Flames,5,Anaheim Ducks,4,20222023,Final,41,22

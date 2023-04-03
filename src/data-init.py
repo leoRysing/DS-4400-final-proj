@@ -27,7 +27,7 @@ team_name_to_abbrev = {
     'Montréal Canadiens': "MTL", 'Nashville Predators': "NSH", 'New Jersey Devils': "NJD", 'New York Islanders': "NYI",
     'New York Rangers': "NYR", 'Ottawa Senators': "OTT", 'Philadelphia Flyers': "PHI", 'Pittsburgh Penguins': "PIT",
     'SC Bern': "SCB", 'San Jose Sharks': "SJS",'Seattle Kraken': "SEA", 'St. Louis Blues': "STL", 'Tampa Bay Lightning': "TBL",
-    'Team Atlantic': "TAT", 'Team Central': "TAC",
+    'Team Atlantic': "TAT", 'Team Central': "TAC", 'Team Pacific': 'TAP', 'Team Metropolitan': "TAM",
     'Toronto Maple Leafs': "TOR", 'Vancouver Canucks': "VAN", 'Vegas Golden Knights': "VGK", 'Washington Capitals': "WSH",
     'Winnipeg Jets': "WPG"
 }
