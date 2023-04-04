@@ -35,8 +35,14 @@ team_name_to_abbrev = {
 
 
 def home_shots(row):
-    plays = pd.DataFrame(list_plays(row["game_id"]))
+    """
+    given plays of the game, returns the total number of shots
+    taken by home team in the game
+    :param row: row of a dataframe
+    :return: number of shots taken by home team
+    """
 
+    plays = pd.DataFrame(list_plays(row["game_id"]))
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
     home_df = plays[plays["team_for"].notnull()]
     home_df = home_df[home_df["team_for"].str.match(home, case=False) & home_df["is_shot"] == True]
@@ -44,6 +50,12 @@ def home_shots(row):
 
 
 def away_shots(row):
+    """
+    given plays of a game, returns the total number of shots
+    taken by the away team
+    :param row: row of dataframe
+    :return: number of shots taken by away team
+    """
     plays = pd.DataFrame(list_plays(row["game_id"]))
 
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
