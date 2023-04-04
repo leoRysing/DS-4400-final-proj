@@ -1,6 +1,7 @@
 import pandas as pd
 import nhlstats
 from nhlstats import list_plays, list_shifts
+import numpy as np
 
 df = pd.DataFrame(nhlstats.list_games('2022-09-01', None))
 df = df[df['season'] == '20222023']
@@ -51,10 +52,72 @@ def away_shots(row):
     return away_df.shape[0]
 
 
+def home_corsi(row):
+    plays = pd.DataFrame(list_plays(row["game_id"]))
+
+    home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
+    home_df = plays[plays["team_for"].notnull()]
+    home_df = home_df[home_df["team_for"].str.match(home, case=False) & home_df["is_corsi"] == True]
+    return home_df.shape[0]
+
+
+def away_corsi(row):
+    plays = pd.DataFrame(list_plays(row["game_id"]))
+
+    home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
+    away_df = plays[plays["team_for"].notnull()]
+    away_df = away_df[away_df["team_for"].str.match(away, case=False) & away_df["is_corsi"] == True]
+    return away_df.shape[0]
+
+
+def home_fenwick(row):
+    plays = pd.DataFrame(list_plays(row["game_id"]))
+
+    home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
+    home_df = plays[plays["team_for"].notnull()]
+    home_df = home_df[home_df["team_for"].str.match(home, case=False) & home_df["is_fenwick"] == True]
+    return home_df.shape[0]
+
+
+def away_fenwick(row):
+    plays = pd.DataFrame(list_plays(row["game_id"]))
+
+    home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
+    away_df = plays[plays["team_for"].notnull()]
+    away_df = away_df[away_df["team_for"].str.match(away, case=False) & away_df["is_fenwick"] == True]
+    return away_df.shape[0]
+
+
+import numpy as np
+
+
+def home_mean_x(row):
+    plays = pd.DataFrame(list_plays(row["game_id"]))
+
+    home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
+    home_df = plays[plays["team_for"].notnull()]
+    home_df = home_df[home_df["team_for"].str.match(home, case=False) & home_df["x"].notnull()]
+    mean = np.mean(home_df["x"])
+    return mean
+
+
+def away_mean_x(row):
+    plays = pd.DataFrame(list_plays(row["game_id"]))
+
+    home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
+    away_df = plays[plays["team_for"].notnull()]
+    away_df = away_df[away_df["team_for"].str.match(away, case=False) & away_df["x"].notnull()]
+    mean = np.mean(away_df["x"])
+    return mean
 
 def get_nhl_dataframe():
     data = pd.DataFrame(nhlstats.list_games('2022-09-01', None))
     return data
 
-def home_shots():
-
+def addRows(data):
+    data["away_corsi"] = data.apply(away_corsi, axis=1)
+    data["home_corsi"] = data.apply(home_corsi, axis=1)
+    data["away_shots"] = data.apply(away_shots, axis=1)
+    data["home_shots"] = data.apply(home_shots, axis=1)
+    data["away_fenwick"] = data.apply(away_fenwick, axis=1)
+    data["home_fenwick"] = data.apply(home_fenwick, axis=1)
