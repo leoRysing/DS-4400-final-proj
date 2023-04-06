@@ -1,3 +1,11 @@
+"""
+Matthew Keefer, Leroy Schaigorodsky, Alan Sourek, Ceara Zhang
+DS 4400 / Hockey Game Analysis
+Final Project
+Date Created: 3/29/23
+Last Updated: 4/6/2023
+"""
+
 import pandas as pd
 import nhlstats
 from nhlstats import list_plays, list_shifts
@@ -27,9 +35,11 @@ team_name_to_abbrev = {
     'Eisbaren Berlin': "EIS", 'Florida Panthers': "FLA", 'Los Angeles Kings': "LAK", 'Minnesota Wild': "MIN",
     'Montréal Canadiens': "MTL", 'Nashville Predators': "NSH", 'New Jersey Devils': "NJD", 'New York Islanders': "NYI",
     'New York Rangers': "NYR", 'Ottawa Senators': "OTT", 'Philadelphia Flyers': "PHI", 'Pittsburgh Penguins': "PIT",
-    'SC Bern': "SCB", 'San Jose Sharks': "SJS",'Seattle Kraken': "SEA", 'St. Louis Blues': "STL", 'Tampa Bay Lightning': "TBL",
+    'SC Bern': "SCB", 'San Jose Sharks': "SJS", 'Seattle Kraken': "SEA", 'St. Louis Blues': "STL",
+    'Tampa Bay Lightning': "TBL",
     'Team Atlantic': "TAT", 'Team Central': "TAC", 'Team Pacific': 'TAP', 'Team Metropolitan': "TAM",
-    'Toronto Maple Leafs': "TOR", 'Vancouver Canucks': "VAN", 'Vegas Golden Knights': "VGK", 'Washington Capitals': "WSH",
+    'Toronto Maple Leafs': "TOR", 'Vancouver Canucks': "VAN", 'Vegas Golden Knights': "VGK",
+    'Washington Capitals': "WSH",
     'Winnipeg Jets': "WPG"
 }
 
@@ -65,6 +75,11 @@ def away_shots(row):
 
 
 def home_corsi(row):
+    """
+
+    :param row:
+    :return:
+    """
     plays = pd.DataFrame(list_plays(row["game_id"]))
 
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
@@ -100,9 +115,6 @@ def away_fenwick(row):
     return away_df.shape[0]
 
 
-import numpy as np
-
-
 def home_mean_x(row):
     plays = pd.DataFrame(list_plays(row["game_id"]))
 
@@ -122,9 +134,11 @@ def away_mean_x(row):
     mean = np.mean(away_df["x"])
     return mean
 
+
 def get_nhl_dataframe():
     data = pd.DataFrame(nhlstats.list_games('2022-09-01', None))
     return data
+
 
 def addRows(data):
     data["away_corsi"] = data.apply(away_corsi, axis=1)

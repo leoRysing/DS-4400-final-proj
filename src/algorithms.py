@@ -1,3 +1,10 @@
+"""
+Matthew Keefer, Leroy Schaigorodsky, Alan Sourek, Ceara Zhang
+DS 4400 / Hockey Game Analysis
+Final Project
+Date Created: 3/29/23
+Last Updated: 4/5/2023
+"""
 def predict_winner(row):
     """
     Predict the winner of a game
@@ -7,7 +14,6 @@ def predict_winner(row):
     pass
 
 
-# 2
 def metrics(y, ypred):
     """
     takes in a series of actual y labels predicted y labels, and returns
