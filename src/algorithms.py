@@ -5,13 +5,62 @@ Final Project
 Date Created: 3/29/23
 Last Updated: 4/5/2023
 """
-def predict_winner(row):
+
+from decisiontree import left, right, majorityClass, criterion, criteria
+from collections import Counter
+
+
+def predict_winner(model, row):
     """
     Predict the winner of a game
     :param row: row of dataframe, ie a given game
     :return:
     """
-    pass
+    if left(model) is not None and right(model) is not None:
+        col, val = criterion(model), criteria(model)
+        if row[col] >= val:
+            return predict_winner(right(model), row)
+        else:
+            return predict_winner(left(model), row)
+    else:
+        return majorityClass(model)
+
+
+# make a prediction based on some data
+def predict(model, data):
+    if model is not None:
+        outputSeries = data.apply(lambda x: predict_winner(model, x), axis=1)
+        return outputSeries
+    else:
+        return None
+    # do something
+
+
+
+def predict_bag(bag, data):
+    if bag is not None:
+        outputSeries = data.apply(lambda x: predict_bag_row(bag, x), axis=1)  # predict_bag_row(bag, x)
+        outputSeries = outputSeries.apply(lambda x: most_common(x), axis=1)
+        return outputSeries
+    else:
+        return None
+
+
+def predict_bag_row(bag, row):
+    output = bag.apply(lambda x: predict_winner(x, row))
+    return output
+
+
+def most_common(predictions):
+    counts = Counter(predictions)
+    return counts.most_common(1)[0][0]
+
+
+def collapseToBin(negative, x):
+    if x == negative:
+        return 0
+    else:
+        return 1
 
 
 def metrics(y, ypred):
@@ -81,4 +130,12 @@ def metrics(y, ypred):
     else:
         f1_score = 2 * (precision * sensitivity) / (precision + sensitivity)
 
-    return accuracy, sensitivity, specificity, precision, f1_score
+    scores = {
+        "accuracy": accuracy,
+        "sensitivity": sensitivity,
+        "specificity": specificity,
+        "precision": precision,
+        "f1-score": f1_score
+    }
+
+    return scores

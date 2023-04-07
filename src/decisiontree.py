@@ -82,21 +82,13 @@ def reduce_column_complexity(column):
 
 
 def safe_round(val):
-    if type(val) == type(True):
+    if type(val) == type("hello"):
         return val
-    elif val > 10706:
+    elif type(val) == type(1.1) and 1.0 > val > 0.0:
         # reduce the durations to half minutes
-        return int(val / 60000) * 60000 + int(((val % 60000) / 30000)) * 30000  # round(val, -3) #val / 60000
-    elif type(val) == type(1.1) and val >= 50:
-        return round(val, -1)
-    elif type(val) == type(1.1) and val >= 0 and val <= 0.00001:
-        return int((val * (10 ** 6))) / (10 ** 6)
-    elif type(val) == type(1.1) and val >= 0 and val <= 0.0001:
-        return int(val * 10 ** 6 / 5) * 5 / (10 ** 6)
-    elif type(val) == type(1.1) and val >= 0:
-        return int(round(val, 2) * 100 / 5) * 5 / 100
-    elif type(val) == type(1.1) and val < 0:
-        return round(val, 0) + round(math.ceil(-(val % 1) / 0.5) * 0.5, 1) + 0.5
+        return round(val, 3)
+    elif type(val) == type(1.1) and val > 1 or val < 0:
+        return round(val, 2)
     else:
         return val
 
