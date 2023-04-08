@@ -6,11 +6,11 @@ Date Created: 3/29/23
 Last Updated: 3/29/23
 """
 
-from decisiontree import dtree, entropy
+from decisiontree import dtree, entropy, bag
 import pandas as pd
 import numpy as np
 from collections import Counter
-from algorithms import predict, metrics, collapseToBin
+from algorithms import predict, metrics, collapseToBin, predict_bag
 
 # This is a sample Python script.
 
@@ -58,6 +58,15 @@ def print_hi(name):
 
     measures = metrics(acts, predicts)
     print(measures)
+
+    bag_model = bag(df, entropy, columns[-1], 8, 4, 0.0)
+    predictions = predict_bag(bag_model, df)
+    predicts = apply(predictions)
+
+    measures = metrics(acts, predicts)
+    print(measures)
+
+
 
     # setup the new portion of the dataframe, with props
     """

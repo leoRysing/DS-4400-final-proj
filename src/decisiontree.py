@@ -201,12 +201,14 @@ def dtree_help(train, criterion, class_column, max_depth, curr_depth, min_inst, 
 # an attempt at bagging
 def bag(train, criterion, class_column, max_depth=None, min_instances=2, target_impurity=0.0):
     models = []
-    for _ in range(0, 100):
+    for _ in range(0, 120):
         random_split = train.sample(500, axis=0)
         random_columns = list(random_split[random_split.columns[:-1]].sample(6))
         random_columns.append(class_column)
 
         random_split_train = random_split[random_columns]
         rand_tree = dtree(random_split_train, criterion, class_column, max_depth, min_instances, target_impurity)
+        print("completed an iteration -------------")
         models.append(rand_tree)
+    print()
     return pd.Series(models)
