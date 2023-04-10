@@ -42,7 +42,7 @@ def get_score_result(x):
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     # print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-    df = pd.read_csv("../data/team_data_v4.csv")
+    df = pd.read_csv("team_data_v4.csv")
     df.drop(["Unnamed: 0"], inplace=True, axis=1)
     columns = list(df.columns)
     print(df)
