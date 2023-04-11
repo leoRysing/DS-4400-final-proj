@@ -16,7 +16,7 @@ critMap = {gini: "gini", entropy: 'entropy'}
 
 accuracies = []
 
-df = pd.read_csv("team_data_v4.csv")
+df = pd.read_csv("../data/team_data_v4.csv")
 df.drop(["Unnamed: 0"], inplace=True, axis=1)
 
 
