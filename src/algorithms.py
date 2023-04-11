@@ -11,6 +11,7 @@ from collections import Counter
 import numpy as np
 import pandas as pd
 import random
+from matplotlib import pyplot as plt
 
 
 def predict_winner(model, row):
@@ -235,15 +236,16 @@ def perceptron(data, alpha=0.0001, epochs=1000):
             # for each attribute in w
             w[j] = w[j] + alpha * np.sum((y - ypred) * X[:, j])
 
-    print(data.head())
+    print(data.columns)
     return acc_list, mpe_list, w
 
 blah = pd.read_csv('team_data_v4.csv')
 blahh = pd.DataFrame(blah)
 acc_list, mpe_list, w = perceptron(blahh)
+print(w)
 
 
-from matplotlib import pyplot as plt
+
 # x range
 num_epochs = np.arange(0, 1000, 1)
 

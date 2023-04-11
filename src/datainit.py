@@ -3,7 +3,7 @@ Matthew Keefer, Leroy Schaigorodsky, Alan Sourek, Ceara Zhang
 DS 4400 / Hockey Game Analysis
 Final Project
 Date Created: 3/29/23
-Last Updated: 4/6/2023
+Last Updated: 4/10/2023
 """
 
 import pandas as pd
@@ -19,9 +19,6 @@ gameId = 2022010001
 plays = pd.DataFrame(list_plays(gameId))
 shifts = pd.DataFrame(list_shifts(gameId))
 
-import algorithms
-
-## reference for team name / abbreviation
 team_name_to_abbrev = {
     'Anaheim Ducks': "ANA", 'Arizona Coyotes': "ARI", 'Boston Bruins': "BOS", 'Buffalo Sabres': "BUF",
     'Calgary Flames': "CGY", 'Carolina Hurricanes': "CAR", 'Chicago Blackhawks': "CHI", 'Colorado Avalanche': "COL",
@@ -70,12 +67,11 @@ def away_shots(row):
 
 def home_corsi(row):
     """
-
-    :param row:
-    :return:
+    counts the number of corsi events for the home team in a given game
+    :param row: row of df representing a hockey game and info
+    :return: number of corsi events for home team
     """
     plays = pd.DataFrame(list_plays(row["game_id"]))
-
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
     home_df = plays[plays["team_for"].notnull()]
     home_df = home_df[home_df["team_for"].str.match(home, case=False) & home_df["is_corsi"] == True]
@@ -83,8 +79,12 @@ def home_corsi(row):
 
 
 def away_corsi(row):
+    """
+    counts the number of corsi events for the away team in a given game
+    :param row: row of df representing a hockey game and info
+    :return: number of corsi events for away team
+    """
     plays = pd.DataFrame(list_plays(row["game_id"]))
-
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
     away_df = plays[plays["team_for"].notnull()]
     away_df = away_df[away_df["team_for"].str.match(away, case=False) & away_df["is_corsi"] == True]
@@ -92,8 +92,12 @@ def away_corsi(row):
 
 
 def home_fenwick(row):
+    """
+    counts the number of fenwick events for the home team in a given game
+    :param row: row of df representing a hockey game and info
+    :return: number of fenwick events for home team
+    """
     plays = pd.DataFrame(list_plays(row["game_id"]))
-
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
     home_df = plays[plays["team_for"].notnull()]
     home_df = home_df[home_df["team_for"].str.match(home, case=False) & home_df["is_fenwick"] == True]
@@ -101,8 +105,12 @@ def home_fenwick(row):
 
 
 def away_fenwick(row):
+    """
+    counts the number of fenwick events for the away team in a given game
+    :param row: row of df representing a hockey game and info
+    :return: number of fenwick events for away team
+    """
     plays = pd.DataFrame(list_plays(row["game_id"]))
-
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
     away_df = plays[plays["team_for"].notnull()]
     away_df = away_df[away_df["team_for"].str.match(away, case=False) & away_df["is_fenwick"] == True]
@@ -110,8 +118,13 @@ def away_fenwick(row):
 
 
 def home_mean_x(row):
+    """
+     Calculate the average x-coordinate of events where the home team
+     had possession.
+    :param row: row of df representing a hockey game
+    :return: mean number of events where the home team had possession
+    """
     plays = pd.DataFrame(list_plays(row["game_id"]))
-
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
     home_df = plays[plays["team_for"].notnull()]
     home_df = home_df[home_df["team_for"].str.match(home, case=False) & home_df["x"].notnull()]
@@ -120,8 +133,13 @@ def home_mean_x(row):
 
 
 def away_mean_x(row):
+    """
+     Calculate the average x-coordinate of events where the away team
+     had possession.
+    :param row: row of df representing a hockey game
+    :return: mean number of events where the away team had possession
+    """
     plays = pd.DataFrame(list_plays(row["game_id"]))
-
     home, away = team_name_to_abbrev[row["home_team"]], team_name_to_abbrev[row["away_team"]]
     away_df = plays[plays["team_for"].notnull()]
     away_df = away_df[away_df["team_for"].str.match(away, case=False) & away_df["x"].notnull()]
@@ -130,15 +148,23 @@ def away_mean_x(row):
 
 
 def get_nhl_dataframe():
+    """
+    get the dataframe
+    :return: dataframe
+    """
     data = pd.DataFrame(nhlstats.list_games('2022-09-01', None))
     return data
 
 
 def addRows(data):
+    """
+    add new features to dataframe
+    :param data: dataframe
+    :return: updated dataframe
+    """
     data["away_corsi"] = data.apply(away_corsi, axis=1)
     data["home_corsi"] = data.apply(home_corsi, axis=1)
     data["away_shots"] = data.apply(away_shots, axis=1)
     data["home_shots"] = data.apply(home_shots, axis=1)
     data["away_fenwick"] = data.apply(away_fenwick, axis=1)
     data["home_fenwick"] = data.apply(home_fenwick, axis=1)
-
