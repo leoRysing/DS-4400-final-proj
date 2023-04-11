@@ -46,7 +46,7 @@ def print_hi(name):
 
 
     # load the most recent csv, and drop the extra column that gets added (something with index being read as a column
-    df = pd.read_csv("team_data_v4.csv")
+    df = pd.read_csv("../data/team_data_v4.csv")
     df.drop(["Unnamed: 0"], inplace=True, axis=1)
     columns = list(df.columns)
     print(df)
