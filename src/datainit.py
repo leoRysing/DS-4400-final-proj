@@ -19,13 +19,7 @@ gameId = 2022010001
 plays = pd.DataFrame(list_plays(gameId))
 shifts = pd.DataFrame(list_shifts(gameId))
 
-print(df.head())
-print(len(df))
-
-print(plays.columns)
-print(set(plays["event_type"]))
-
-print(plays[plays["event_type"] == "GOAL"])
+import algorithms
 
 ## reference for team name / abbreviation
 team_name_to_abbrev = {
@@ -147,3 +141,4 @@ def addRows(data):
     data["home_shots"] = data.apply(home_shots, axis=1)
     data["away_fenwick"] = data.apply(away_fenwick, axis=1)
     data["home_fenwick"] = data.apply(home_fenwick, axis=1)
+
