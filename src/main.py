@@ -17,6 +17,8 @@ from algorithms import predict, metrics, collapseToBin, predict_bag
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
+# these two lists are used for column selection
+
 listCols = ['date', 'home_team', 'away_team', 'home_shots', 'away_shots', 'away_corsi',
        'home_corsi', 'home_fenwick', 'away_fenwick', 'home_mean_x',
        'away_mean_x', 'home_mean_y', 'away_mean_y', 'home_penalties',
@@ -30,6 +32,8 @@ selected_cols = [
        'home_hits_prop', 'away_hits_prop', 'home_takeaways_prop',
        'away_takeaways_prop', 'game_end'
 ]
+
+# get the score result - translate the home / away scores to see which team won
 def get_score_result(x):
     home, away = x["home_score"], x["away_score"]
     if home > away:
@@ -39,26 +43,34 @@ def get_score_result(x):
     else:
         return "tie"
 
+# method used for setup, gets called in main to be run
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     # print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+
+    # load the most recent csv, and drop the extra column that gets added (something with index being read as a column
     df = pd.read_csv("team_data_v4.csv")
     df.drop(["Unnamed: 0"], inplace=True, axis=1)
     columns = list(df.columns)
     print(df)
 
+    # make a dtree model, and make predictions
     model = dtree(df, entropy, columns[-1], 8, 4, 0.0)
     predictions = predict(model, df)
     actuals = df.game_end
 
+    # make a function object that can vectorize the string classes down to
+    # 0 and 1 values
     apply = np.vectorize(lambda x: collapseToBin("home win", x))
 
     predicts = apply(predictions)
     acts = apply(actuals)
 
+    # get the metrics of this model
     measures = metrics(acts, predicts)
     print(measures)
 
+    # try bagging this df
     bag_model = bag(df, entropy, columns[-1], 8, 4, 0.0)
     predictions = predict_bag(bag_model, df)
     predicts = apply(predictions)

@@ -6,18 +6,20 @@ import math
 import random
 
 
-# Helper functions to get the scores
+# Helper functions to get the scores ----------
 # all of them require the use of the counter
 def gini(cnt):
     tot = total(cnt)
     return 1 - sum([(v / tot) ** 2 for v in cnt.values()])
 
 
+# entropy measure
 def entropy(cnt):
     tot = total(cnt)
     return sum([(-v / tot) * log2(v / tot) for v in cnt.values()])
 
 
+# weighted average
 def wavg(cnt1, cnt2, measure):
     tot1 = total(cnt1)
     tot2 = total(cnt2)
@@ -25,27 +27,32 @@ def wavg(cnt1, cnt2, measure):
     return (measure(cnt1) * tot1 + measure(cnt2) * tot2) / tot
 
 
+# total of a counter
 def total(cnt):
     return sum(cnt.values())
 
 
-# Some helper functions
+# find the criterion of a tree node
 def criterion(T):
     return T[0] if T is not None else None
 
 
+# find the criteria of a tree node
 def criteria(T):
     return T[1] if T is not None else None
 
 
+# find the majority class of a tree node
 def majorityClass(T):
     return T[3] if T is not None else None
 
 
+# find the left subtree of a tree node
 def left(T):
     return T[6] if T is not None else None
 
 
+# find the right subtree of a tree node
 def right(T):
     return T[7] if T is not None else None
 
@@ -81,6 +88,7 @@ def reduce_column_complexity(column):
     return setColumn
 
 
+# round a value to a more manageable amount, for purpose of reducing number of splits
 def safe_round(val):
     if type(val) == type("hello"):
         return val

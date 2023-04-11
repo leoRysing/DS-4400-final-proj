@@ -13,14 +13,15 @@ min_examples = [i for i in range(8, 2, -1)]
 
 critMap = {gini: "gini", entropy: 'entropy'}
 
-
+# accuracies df
 accuracies = []
 
 df = pd.read_csv("team_data_v4.csv")
 df.drop(["Unnamed: 0"], inplace=True, axis=1)
 
 
-# do mini
+# validate a model for some data, given its hyperparamaters
+# uses 10-fold validation
 def validate(data, crit, max_dpth=None, min_inst=2, target_imp=0.0):
     folds = 10
     class_col = data.columns[-1]
@@ -41,7 +42,7 @@ def validate(data, crit, max_dpth=None, min_inst=2, target_imp=0.0):
         temp_accuracies.append(accuracy)
     return round(sum(temp_accuracies) / 10, 4)
 
-
+# test the hyperparameters in an efficient way for decision tree
 def testHyperparams(df):
     bestScore = 0
     bestDepth = max_depths[0]
